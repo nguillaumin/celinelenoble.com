@@ -1,0 +1,5 @@
+<ul id="post-list">
+    {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+        {{ .Render "post-list-item" }}
+    {{ end }}
+</ul>

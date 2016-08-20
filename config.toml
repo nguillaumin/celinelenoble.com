@@ -8,6 +8,8 @@ googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
 disqusShortname = ""
 
+SectionPagesMenu = "main"
+
 [params]
 	name = "Celine Lenoble"
 	description = "Celine Lenoble Portfolio"

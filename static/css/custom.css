@@ -1,9 +1,9 @@
 #wrapper {
-  max-width: 650px;
+  max-width: 1000px;
 }
 
 #wrapper.home {
-	max-width: 650px;
+	max-width: 1000px;
 }
 
 body {
@@ -12,6 +12,11 @@ body {
 
 nav.main-nav a {
     color: #bc1422;
+}
+
+nav.main-nav a.active {
+    color: white;
+    background-color: #bc1422;
 }
 
 nav.main-nav a.cta {
@@ -36,3 +41,20 @@ a.symbol:hover {
     color: #b75d65;
 }
 
+#post-list h2 {
+    max-width: 700px;
+}
+
+#post-list h2.portfolio {
+    max-width: inherit;
+}
+
+footer p.credits img {
+    height: inherit;
+    width: inherit;
+    vertical-align: text-bottom;
+}
+
+footer p.credits a {
+    color: inherit;
+}
