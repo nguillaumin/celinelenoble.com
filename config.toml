@@ -1,0 +1,52 @@
+# Site settings
+baseurl = "http://replace-this-with-your-domain.com/"
+languageCode = "en-us"
+title = "Celine Lenoble Portfolio"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Celine Lenoble"
+	description = "Celine Lenoble Portfolio"
+	bio = "User Researcher"
+	# Enter optionally your twitter account
+	twitter = "@CelineLenoble"
+	enableRSS = false
+
+	# Add custom assets with their paths relative to the static folder
+	customCSS = ["/css/custom.css"]
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	about = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = "Latest posts"
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = ""
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = "404 - Page not found"
+	subtitle404 = "This content doesn't seem to exist. Please check the URL or browse the posts below."
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/CelineLenoble"
+    linkedin = "https://www.linkedin.com/in/celinelenoble"
+

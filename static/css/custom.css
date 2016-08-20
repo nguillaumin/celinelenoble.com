@@ -1,0 +1,38 @@
+#wrapper {
+  max-width: 650px;
+}
+
+#wrapper.home {
+	max-width: 650px;
+}
+
+body {
+	font:17px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+nav.main-nav a {
+    color: #bc1422;
+}
+
+nav.main-nav a.cta {
+    background: #b75d65;
+}
+
+a,
+#title,
+#post-list a:hover,
+#post-list li:hover .dates,
+#title:hover {
+    color: #bc1422;
+}
+
+p a { color: #bc1422; }
+
+#post-list.archive.readmore a {
+    color: #bc1422;
+}
+
+a.symbol:hover {
+    color: #b75d65;
+}
+
