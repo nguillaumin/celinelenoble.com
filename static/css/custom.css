@@ -58,3 +58,7 @@ footer p.credits img {
 footer p.credits a {
     color: inherit;
 }
+
+p.twitter-timeline {
+    text-align: center;
+}

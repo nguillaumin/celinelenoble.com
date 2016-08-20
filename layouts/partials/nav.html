@@ -1,5 +1,4 @@
 <nav class="main-nav">
-	
     {{ $currentNode := . }}
     {{ range .Site.Menus.main }}
 		<a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
