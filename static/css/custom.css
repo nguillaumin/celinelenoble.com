@@ -1,9 +1,5 @@
-#wrapper {
-  max-width: 1000px;
-}
-
-#wrapper.home {
-	max-width: 1000px;
+#wrapper, #wrapper.home {
+  max-width: 800px;
 }
 
 body {
@@ -42,7 +38,7 @@ a.symbol:hover {
 }
 
 #post-list h2 {
-    max-width: 700px;
+    max-width: 600px;
 }
 
 #post-list h2.portfolio {
