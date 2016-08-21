@@ -1,0 +1,14 @@
+<ul id="post-list" class="archive readmore">
+    {{ $sectionParams := index .Site.Params .Section }}
+    {{ $currentSection := .Section }}
+    <h3>{{ with $sectionParams.readMore }}{{ . }}{{ else }}Read more{{ end }}</h3>
+    
+    {{ range $i, $p := first 10 (where .Site.Pages "Params.hidden" "ne" "true")}}
+    {{ if and (eq .Section $currentSection) }}
+        {{ $url := replace $p.Permalink .Site.BaseURL "" }}
+            {{ if and (ne $url "about/") }}
+                {{ .Render "latest-post-item" }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</ul>

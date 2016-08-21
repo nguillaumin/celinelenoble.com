@@ -32,7 +32,7 @@ SectionPagesMenu = "main"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
-	readMore = "Latest posts"
+
 	copyright = ""
 	# Sharing options and author information in posts
 	aboutAuthor = ""
@@ -43,9 +43,15 @@ SectionPagesMenu = "main"
 	subtitle404 = "This content doesn't seem to exist. Please check the URL or browse the posts below."
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
+
+	[params.portfolio]
+		readMore = "Other projects"
+
+	[params.blog]
+		readMore = "Latest posts"
 
 # Add additional social link entries underneath
 [social]
