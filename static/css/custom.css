@@ -37,12 +37,8 @@ a.symbol:hover {
     color: #b75d65;
 }
 
-#post-list h2 {
+#post-list h2, #post-list h2.portfolio {
     max-width: 600px;
-}
-
-#post-list h2.portfolio {
-    max-width: inherit;
 }
 
 footer p.credits img {
@@ -57,4 +53,8 @@ footer p.credits a {
 
 p.twitter-timeline {
     text-align: center;
+}
+
+#post-list .dates .fa {
+    font-size: 40px;
 }

@@ -2,7 +2,7 @@
 date = "2016-08-08T21:33:55-07:00"
 description = "Designing a website to meet the needs of a charitable association, their users and donators."
 title = "Doris Women Refuge Website"
-
+icon = "life-ring"
 +++
 
 

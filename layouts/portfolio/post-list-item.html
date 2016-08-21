@@ -1,6 +1,7 @@
 {{ $url := replace .Permalink .Site.BaseURL "" }}
 {{ if ne $url "about/" }}
     <li>
+        <a href='{{ .Permalink }}'><aside class="dates"><i class="fa fa-{{ .Params.icon }}"></i></aside></a>
         <a href='{{ .Permalink }}'>{{ .Title }} <h2 class="portfolio">{{ .Description | markdownify }}</h2></a>
     </li>
 {{ end }}

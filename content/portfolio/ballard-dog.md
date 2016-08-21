@@ -2,7 +2,7 @@
 date = "2016-08-11T16:00:00-07:00"
 description = "Rethinking a small business website based on User Research."
 title = "Ballard.dog re-Design"
-
+icon = "paw"
 +++
 
 Ballard.dog is a new business offering pet care services in Ballard, Seattle. The initial website used a common template for pet care services on website builder. It didn't meet neither users' needs nor business owners' wishes. 

@@ -2,7 +2,7 @@
 date = "2016-08-02T15:18:27-07:00"
 description = "My earlier work as a project manager already focused on improving UX for visitors."
 title = "Science Museum Website"
-
+icon = "flask"
 +++
 
 ## Earlier projects at Cite des sciences et de l'industrie
