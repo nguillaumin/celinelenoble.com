@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://replace-this-with-your-domain.com/"
+baseurl = "http://ux.celinelenoble.com/"
 languageCode = "en-us"
 title = "Celine Lenoble Portfolio"
 theme = "hugo-cactus-theme"
@@ -19,7 +19,7 @@ SectionPagesMenu = "main"
 	enableRSS = false
 
 	# Add custom assets with their paths relative to the static folder
-	customCSS = ["/css/custom.css"]
+	customCSS = ["css/custom.css"]
 	customJS  = []
 
 	# The variables below are optionally too and can be used to
