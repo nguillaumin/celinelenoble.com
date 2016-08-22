@@ -38,6 +38,10 @@ all **new** things: meeting new people, visiting new countries, discovering new 
 * Canberra, Australia
 * Seattle, USA
 
+and places I visited:
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Places I lived or visited" src="//www.arcgis.com/apps/Embed/index.html?webmap=29e6cf07e7dd4d84b14dff279c8c2129&amp;extent=-180,-72.5543,180,82.0458&amp;zoom=true&amp;scale=false&amp;legend=true&amp;disable_scroll=true&amp;theme=light"></iframe></div>
+
 <br>
 #### Favorite sources of information (general)
 
