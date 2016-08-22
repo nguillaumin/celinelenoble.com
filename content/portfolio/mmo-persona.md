@@ -22,7 +22,7 @@ So I chose to create six personas to illustrate my findings in a synthetic and c
 <br>
 ### Persona sample
 
-![One of the personas created](/images/persona-sample.png "One of the persona created")
+![One of the personas created](/images/persona-sample.png "One of the personas created")
 
 
 
