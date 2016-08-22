@@ -7,6 +7,8 @@ icon = "paw"
 
 Ballard.dog is a new business offering pet care services in Ballard, Seattle. The initial website used a common template for pet care services on website builder. It didn't meet neither users' needs nor business owners' wishes. 
 
+![Ballard.dog Website before](/images/ballard-website.png "Before: First two versions of Ballard.dog using Website Builder template")
+
 ### Business' goals
 
 - Build a local customer base.
@@ -29,7 +31,7 @@ I used several approaches concurrently:
 User research revealed a number of needs and pain points with existing pet care services. 
 
 - Dog owners need on-demand, last minute walking or boarding services, when unexpected things happen at their job or in their life.
-- Many dogs have special needs, at least according to their owners, as they are anxious, have difficulty socializing, etc. They need a service able to adapt to their dog's specific behavior and character. 
+- Many dogs have special needs as they are anxious, have difficulty socializing, etc. They need a service capable to adapt to their dog's specific behavior and character. 
 - Existing pet care services don't always work for them: dog walkers caring for multiple dogs at once, dog day care in large structure with little human contact and attention, incompatibility of characters between their dog and the carer's own pet.
 
 <br>
@@ -37,8 +39,17 @@ These insights were used to reframe the services offered and reword their descri
 
 ### The new design
 
+The new website will be live soon. Here is a preview:
+
+![After: ballard.dog on a large desktop](/images/ballard-website-new-large-desktop.png "After: ballard.dog on a large desktop")
+
+![After: ballard.dog on mobile](/images/ballard-website-new-mobile.png)
+
+NB: This is still a work-in-progress, texts and images are not definitive.
+
 I recommended using wordpress rather than website builder, for its greater flexibility, possibility to use a responsive theme and ease of use, in particular for updates and new contributions.
 
-I suggested a parallax layout. This allows customers to browse through the services and testimonials without clicking. Large images of animals currently in their care are both a way to draw animal lovers to the website and incite them to scroll further, as well as a way to reinforce the message that pets are safe and happy at ballard.dog.
 
-I designed a large logo for the top slide, reflecting partly the business card they already had. I chose to include the domain name to emphasize the local character of this service. 
+I suggested a parallax layout, using the wordpress theme <a href="https://wordpress.com/themes/affinity/" target="_blank">Affinity</a>. Customers can thus browse through the services and testimonials without clicking. Large images of animals currently in their care are both a way to draw animal lovers to the website and incite them to scroll further. They also reinforce the message that pets are safe and happy at ballard.dog.
+
+I designed a large logo for the top slide, reflecting partly their existing business card. I chose to include the domain name to emphasize the local character of this service.
