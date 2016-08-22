@@ -31,7 +31,7 @@ Through a series of interviews, I gathered needs and information. I also reviewe
 
 We discussed this first draft, and I refined the contents based on their feedback. Regarding the layout, we settled for a mix between two of the suggestions I had done. 
 
-Another particularity of such a small association is the complete absence of technical staff. So they need to be able to maintain the website with minimal technical knowledge and training. Wordpress offered the flexibility and user-friendliness that were needed. I used an existing wordpress theme that I customized to implement the layout we had chosen. 
+Another particularity of such a small association is the complete absence of technical staff. So they need to be able to maintain the website with minimal technical knowledge and training. Wordpress offered the flexibility and user-friendliness that were needed. I used an existing WordPress theme (Square by [Hash Themes](http://hashthemes.com/)) that I customized to implement the layout we had chosen. 
 
 The website is ready, just in need of a hosting service to be live!
 
