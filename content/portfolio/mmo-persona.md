@@ -5,18 +5,18 @@ title = "Building MMO Players Personas"
 icon = "desktop"
 +++
 
-As a research project for my Anthropology degree, I studied a Massive Multiplayer Online Game *The Lord of the Rings Online*. I used two methodologies: participant observation and interviews. I wrote my thesis on MMO and social representations, nased on this research as well as academic and industry studies.
+As a research project for my Anthropology degree, I studied a Massive Multiplayer Online Game *The Lord of the Rings Online*. I used participant observation and interviews to conduct this ethnographic research. I wrote my thesis on MMO and social representations, using my research as well as academic and industry studies.
 
-This research includes many useful insights in players' motivations, goals and pain points, but an 88-page thesis wasn't the best format to communicate them. 
+This research includes many useful insights in players' motivations, goals and pain points, but an 88-page thesis wasn't the best format to communicate them. So I chose to create six personas to illustrate my findings in a synthetic and concrete way. 
 
-So I chose to create six personas to illustrate my findings in a synthetic and concrete way. Each persona is composite, the sum of multiple inputs. Each of them concentrates in one archetype several typical attributes I found in different players.
+Each persona is composite, the sum of multiple inputs. Each of them concentrates in one archetype several typical attributes I found in different players.
 
 ### In brief
 
-- xxx hours of participant observation
-- 15 hours of interviews
-- xxx pages read.
-- xx pages written.
+- 230+ hours of participant observation in 118 days.
+- 12+ hours of interviews.
+- 1988+ pages read (not counting articles).
+- 88 pages written (+ 78 pages in annexes) .
 - 6 personas
 
 <br>
