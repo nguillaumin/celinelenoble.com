@@ -47,24 +47,3 @@ However, the integration with ENT was not possible to implement at first, limiti
 
 The easy access and use of all the resources on the website depended in part of the implementation of another large project, the overhaul of the entire website, under the responsibility of another team. 
 At the time of my departure from Cite des Sciences et de l'industrie, this project wasn't achieved yet.
-
-### Improving the visit experience
-
-Another frequent pain point for teachers (or families) visiting the exhibitions is the impossibility to see everything in the limited time they have (generally half a day, on average two hours and a half). 
-
-#### Conflict between expectations and actual experience
-The tickets they book state that it gives access to all exhibitions. Therefore, they expect to see them all, and make the most of the price they paid for their tickets. 
-After having visiting a first exhibition, they quickly realize that they don't have much time left. And rush to see most of the others. This doesn't result in a satisfying experience. Visitors don't really take the time to enjoy the exhibits, they grow tired and frustrated, and have the impression that they have wasted their money, because they couldn't see them all. 
-
-The experience is far different in another, even larger, museum like the Louvre Museum. Visitors don't expect to see everything, so they pick and choose one or two areas, they enjoy their visit and are usually very satisfied with their experience. 
-
-So the key was to reshape the expectations and knowledge of the visitors regarding what was available and doable in the amount of time they have. We were looking in particular at how to help teachers plan their visit with their class. 
-
-#### Helping teachers plan a visit with their class
-
-The program offered at cite des sciences et de l'industrie is very complex, as it includes three different spaces of exhibitions, three cinema theatres, a planetarium, workshops and demonstrations as well as lectures. Some activities have a specific start time, some don't, some have a specific duration, others don't, some require booking, some don't. Basically, all the combinations of these three components were possible. It was therefore very complex for visitors to understand what they could do and when. 
-
-The project was to propose a tool to plan the visit, where teachers could select activities he was interested in, and start building a visit schedule by simply drag and dropping them. All the information  necessary was already available through a large database, but the booking system didn't take into account schedule elements, nor the time necessary to visit one specific exhibition. 
-
-I wrote the specifications on this project, but didn't supervise the implementation which was done after my departure through a contractor.
-
