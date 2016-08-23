@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://ux.celinelenoble.com/"
+baseurl = "http://celinelenoble.com/"
 languageCode = "en-us"
 title = "Celine Lenoble Portfolio"
 theme = "hugo-cactus-theme"
