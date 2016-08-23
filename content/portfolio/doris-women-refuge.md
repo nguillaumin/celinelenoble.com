@@ -15,7 +15,8 @@ Doris Women Refuge is a charitable association in Canberra that provides emergen
 - Collect funds through donations more easily.
 - Provide information about domestic and family violence, especially to victims.
 
-Contrary to a typical business, Doris Women Refuge wasn't looking for more customers. Unfortunately, they were always booked out. A specific system is in place for victims of domestic and family violence to find accommodations, and their customers are mostly referred through this system. 
+<br>
+Contrary to a typical business, Doris Women Refuge wasn't looking for more customers. Unfortunately, they almost never have any place available. A specific system is in place for victims of domestic and family violence to find accommodations, and their customers are mostly referred through this system. 
 
 ### Needs for Safety: Special Challenges
 
@@ -31,7 +32,7 @@ Through a series of interviews, I gathered needs and information. I also reviewe
 
 We discussed this first draft, and I refined the contents based on their feedback. Regarding the layout, we settled for a mix between two of the suggestions I had done. 
 
-Another particularity of such a small association is the complete absence of technical staff. So they need to be able to maintain the website with minimal technical knowledge and training. Wordpress offered the flexibility and user-friendliness that were needed. I used an existing WordPress theme (Square by [Hash Themes](http://hashthemes.com/)) that I customized to implement the layout we had chosen. 
+Another particularity of such a small association is the complete absence of technical staff. So they need to be able to maintain the website with minimal technical knowledge and training. WordPress offered the flexibility and user-friendliness that were needed. I used an existing WordPress theme (Square by [Hash Themes](http://hashthemes.com/)) which I customized to implement the layout we had chosen. 
 
 The website is ready, just in need of a hosting service to be live!
 
