@@ -2,7 +2,7 @@
 date = "2016-08-16T14:51:26-07:00"
 description = "When you start thinking about it, there are many similarities between teaching and UX design."
 title = "Learning Experience Designer"
-
+draft = true
 +++
 
 The transition from teaching to UX might seem unexpected, but they have in fact many things in common. In fact, you could think of a teacher as a Learning Experience Designer.
