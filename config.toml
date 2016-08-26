@@ -13,7 +13,7 @@ SectionPagesMenu = "main"
 [params]
 	name = "Celine Lenoble"
 	description = "Celine Lenoble Portfolio"
-	bio = "User Researcher"
+	bio = "User Research - Experience Design"
 	# Enter optionally your twitter account
 	twitter = "@CelineLenoble"
 	enableRSS = false
