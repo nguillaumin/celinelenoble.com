@@ -1,15 +1,15 @@
 +++
 date = "2015-06-20T14:02:37+02:00"
-title = "About me"
+title = "About"
 hidden = true
 +++
-### Why User Research?
+### Why UX?
 
-In January 2015, I decided to re-orient my career path towards **UX**. I had already participated in projects focusing on User Experience as a project manager, and a good way of describing my teaching job would be Learning Experience Designer. 
+In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a project manager, and a good way of describing my teaching job would be Learning Experience Designer. 
 
 
 
-So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOS and social representations] (/portfolio/mmp-persona). I graduated in June 2016. I also spent heaps of time learning and practicing UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera. I also dived in the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)).
+So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOS and social representations] (/portfolio/mmp-persona). I graduated in June 2016. I also spent heaps of time learning and practicing UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera. I also delved in the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)).
 
 I believe in a holistic approach to UX research combining all perspectives: HCI, psychology, sociology, anthropology and all methods: from big data to ethnographic study.
 
