@@ -9,9 +9,8 @@ In January 2015, I decided to re-orient my career path towards **UX**. I had alr
 
 
 
-So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOS and social representations] (/portfolio/mmp-persona). I graduated in June 2016. I spent heaps of time learning and practicing UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera. I also dived in the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)).
+So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOS and social representations] (/portfolio/mmp-persona). I graduated in June 2016. I also spent heaps of time learning and practicing UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera. I also dived in the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)).
 
-I'm curious about everything, but I'm really passionate about people. 
 I believe in a holistic approach to UX research combining all perspectives: HCI, psychology, sociology, anthropology and all methods: from big data to ethnographic study.
 
 ***
@@ -26,6 +25,7 @@ I believe in a holistic approach to UX research combining all perspectives: HCI,
 
 at Cité des Sciences et de l'Industrie, Science Museum in Paris, in between my teaching positions.
 
+More details on my [LinkedIn profile] (https://www.linkedin.com/in/celinelenoble).
 
 ***
 
@@ -42,17 +42,13 @@ all **new** things: meeting new people, visiting new countries, discovering new 
 <br>
 #### Favorite games
 
-* No Man's Sky
-* Lord of the Rings Online
+* <a href="http://www.no-mans-sky.com/" target="blank"> No Man's Sky</a>
+* <a href="http://www.lotro.com/en" target="blank">Lord of the Rings Online</a>
 
 <br>
 #### Favorite meal
 
 * Wine, baguette and cheese.
 
-***
 
-### Places I lived or visited
-
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Places I lived or visited" src="//www.arcgis.com/apps/Embed/index.html?webmap=29e6cf07e7dd4d84b14dff279c8c2129&amp;extent=-180,-72.5543,180,82.0458&amp;zoom=true&amp;scale=false&amp;legend=true&amp;disable_scroll=true&amp;theme=light"></iframe></div>
 
