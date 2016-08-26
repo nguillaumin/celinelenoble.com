@@ -7,30 +7,44 @@ icon = "flask"
 
 ## Earlier projects at Cité des sciences et de l'industrie
 
-Working as a project manager at <a href="http://www.cite-sciences.fr/en/home/" target="blank">Cité des sciences et de l'industrie</a>, Science Museum in Paris, my first objective was to improve the experience of visitors, especially of teachers visiting with their class. 
+Working as a project manager at <a href="http://www.cite-sciences.fr/en/home/" target="blank">Cité des sciences et de l'industrie</a>, a Science Museum in Paris, my first objective was to improve the experience of visitors, especially of teachers visiting with their class. 
+
+### Redesign of the Education website
+
+I was in charge of the Education website between 2005 and 2009. The first project was mostly directed to respond to internal user needs, such as empowering staff working in educational programs to update themselves the information regarding their program. To achieve this, we migrated the static website to a Content Management System. This also contributed to improve the experience of end users, as they had access to accurate and up-to-date information. 
+
+This transition was also the opportunity to redesign the structure and navigation, to make it user-oriented, rather than business oriented. The older version reflected the different departments, not the needs of visitors. For example, a primary teacher had to visit several different sub-sites to find all the relevant information for their students. The new organization simplified the access to information for the teachers, gathering all the programs they were interested in from the different sections in one place.  
 
 ### Facilitate the use of online resources for teachers
 
-I was in charge of the Education website between 2005 and 2009. The first project was mostly directed to respond to internal user needs, such as empowering staff working in educational programs to update themselves the information regarding their program. This also contributed to improve the experience of the end users, as they had access to accurate and up-to-date information. 
+During this first phase, I identified others needs and problems teachers had when using the general website of the museum, which was a collection of different smaller websites, with no common navigation or organization. While the project to overhaul the entire website was led by another team, I worked with them to try and improve the outcomes for teachers. I also started a second project to facilitate the use of online resources by teachers and their classes.
 
-The overhaul of the website was also the opportunity to redesign the structure and navigation, to make it user-oriented, rather than business oriented. The older version organization reflected the different departments, not the needs of visitors. For example, a primary teacher had to visit several different sub-sites to find all the relevant information for their students. The new organization simplified the access to information for the teachers, gathering all the programs they were interested in from the different sections in one place.  
 
-During this first phase, I identified others needs and problems teachers had when using the general website of the museum, which was a collection of different smaller websites, with no common navigation or organization. While the project to overhaul the entire website was led by another team, I worked with them to try and improve the outcomes for teachers.
+#### Museum goals
 
+- Develop scientific culture and awareness among the general public.
+- Educate students in science early on to encourage them to pursue a career in STEM disciplines.
+
+<br>
+#### Objectives
+- Increase the number of visits on the website.
+- Increase the number of school visits at the museum.
+
+<br>
 #### Teachers goals 
 
 - Find relevant resources for their classes.
-- Give an easy access to these selected resources to their students.
-- Organize online activities based on these resources
+- Facilitate access to selected resources for their students.
+- Organize online activities based on these resources.
 
 
 <br>
 #### Pain points
 
-- Resources are extensive, but difficult to find, because they are divided in a number of different sub-sites.
-- Even though there is a general search engine, covering all the subsites, resources weren't always tagged according to the specific level teachers need.
+- Resources were extensive, but difficult to find, because they were divided in a number of different sub-sites.
+- Even though there was a general search engine, covering all the sub-sites, resources weren't tagged according to the specific level teachers needed.
 
-Example: when looking for resources in physics on a specific topic, the relevant resources found by the search engine could cover levels starting for 8 year old students to lectures given by university professors. 
+Example: when looking for resources in physics on a specific topic, the relevant resources found by the search engine could cover levels starting for 8 year old students to lectures given by university professors. No filter were available based on school years or students age.
 
 - To use a set of different resources from different parts of the website, no easy navigation were possible. Teachers had to use a series of links (in the form of very long URLs).
 - All activities based on these resources had to be organized by the teachers themselves on an external platform, their school website, or just word documents with hyperlinks shared with the students. 
@@ -39,11 +53,11 @@ Example: when looking for resources in physics on a specific topic, the relevant
 <br>
 #### Context
 
-Virtual Learning Environment were just starting to develop in France at the time, and most schools did not have them yet. Guidelines and specifications for VLE (called Espace numérique de Travail or digital work space) had already been developed by the French Ministry of Education. These guidelines included the possibility of third-party applications, that could operate within or next to the VLE. This option seemed to be an excellent opportunity of development for the resource rich website of the Cité des Sciences et de l'Industrie, if we could offer an interface for teachers and students to access and share resources and to organize online activities. 
+Virtual Learning Environment were just starting to develop in France at the time, and most schools did not have them yet. Guidelines and specifications for VLE (called ENT: "Espace numérique de Travail" literally digital work space) had already been developed by the French Ministry of Education. These guidelines included the possibility of third-party applications, that could operate within or next to the VLE. This option seemed to be an excellent opportunity of development for the resource rich website of the Cité des Sciences et de l'Industrie, if we could offer an interface for teachers and students to access and share resources and to organize online activities. 
 
 #### The project itself
 
-The project was to provide a virtual learning environment dedicated to science, giving an easy access to all the resources of the CSI website, allowing teachers to share them easily with their classes, to organize online activities based on those resources and share them with other teachers. 
+The project was to provide a virtual learning environment dedicated to science, giving an easy access to all the resources of the CSI website, allowing teachers to share them easily with their classes, to organize online activities based on those resources and share them with other teachers. This VLE would be able to act as a third party application for school-based ENT.
 
 The implementation took the form of a webOS (eyeOS) where teachers could easily create accounts for each student in their class, search for resources and create learning activities based on those resources, that they could then share with the students. 
 
@@ -51,5 +65,4 @@ Together with a colleague from the IT department, we supervised the development 
 
 However, the integration with ENT was not possible to implement at first, limiting the audience to the teachers visiting the website. I had initiated a number of contacts with ENT providers and education organizations to try and establish partnership including SSO and sharing of resources, but this was not followed through after I left.
 
-The easy access and use of all the resources on the website depended in part of the implementation of another large project, the overhaul of the entire website, under the responsibility of another team. 
-At the time of my departure from Cite des Sciences et de l'industrie, this project wasn't achieved yet.
+
