@@ -7,7 +7,7 @@ icon = "paw"
 
 Ballard.dog is a new business offering pet care services in Ballard, Seattle. The initial website used a common template for pet care services on website builder. It didn't meet neither users' needs nor business owners' wishes. 
 
-![Ballard.dog Website before](/images/ballard-website.png "Before: First two versions of Ballard.dog using Website Builder template")
+{{< figure src="/images/ballard-website.png" title="Before: First two versions of Ballard.dog using Website Builder template" >}}
 
 ### Business goals
 
@@ -48,9 +48,10 @@ I designed a large logo for the top slide, reflecting partly their existing busi
 
 The new website will be live soon. Here is a preview:
 
-![After: ballard.dog on a large desktop](/images/ballard-website-new-large-desktop.png "After: ballard.dog on a large desktop")
+{{< figure src="/images/ballard-website-new-large-desktop.png" title="After: ballard.dog on a large desktop" >}}
 
-![After: ballard.dog on mobile](/images/ballard-website-new-mobile.png)
+{{< figure src="/images/ballard-website-new-mobile.png" title="After: ballard.dog on mobile" >}}
+
 
 NB: This is still a work-in-progress, texts and images are not definitive.
 

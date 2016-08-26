@@ -28,14 +28,15 @@ Visitors to the website are potentially in danger too, simply by visiting it, if
 
 Through a series of interviews, I gathered needs and information. I also reviewed websites of similar associations. I wrote down functional as well as technical specifications, including structure, navigation, contents. I prepared three different wireframes for the layout of the home page, and three for a content page. 
 
-![Suggestion of three layouts for the home page](/images/dwr-wireframes.png "Proposition of three layouts for the home page")
+{{< figure src="/images/dwr-wireframes.png" title="Proposition of three layouts for the home page" >}}
 
-We discussed this first draft, and I refined the contents based on their feedback. Regarding the layout, we settled for a mix between two of the suggestions I had done. 
+We discussed this first draft, and I refined the contents based on their feedback. Regarding the layout, we settled for a mix between two of the suggestions I had done. There was already a visual identity defined for leaflets and cards, so I used the same logo and colors for the website.
 
 Another particularity of such a small association is the complete absence of technical staff. So they need to be able to maintain the website with minimal technical knowledge and training. WordPress offered the flexibility and user-friendliness that were needed. I used an existing WordPress theme (Square by [Hash Themes](http://hashthemes.com/)) which I customized to implement the layout we had chosen. 
 
 The website is ready, just in need of a hosting service to be live!
 
-![Home page of the future Doris Women Refuge website](/images/dwr-home.png "Home page of the future Doris Women Refuge website")
+{{< figure src="/images/dwr-home.png" title="Home page of the future Doris Women Refuge website" >}}
+
 
 ---------
