@@ -5,7 +5,7 @@ hidden = true
 +++
 ## Why UX?
 
-In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [project manager] (portfolio/csi), and a good way of describing my teaching job would be Learning Experience Designer. 
+In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [project manager] (/portfolio/csi), and a good way of describing my teaching job would be Learning Experience Designer. 
 
 
 
