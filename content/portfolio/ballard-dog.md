@@ -46,13 +46,6 @@ I suggested a parallax layout, using the wordpress theme <a href="https://wordpr
 
 I designed a large logo for the top slide, reflecting partly their existing business card. I chose to include the domain name to emphasize the local character of this service.
 
-The new website will be live soon. Here is a preview:
-
-{{< figure src="/images/ballard-website-new-large-desktop.png" title="After: ballard.dog on a large desktop" >}}
-
-{{< figure src="/images/ballard-website-new-mobile.png" title="After: ballard.dog on mobile" >}}
-
-
-NB: This is still a work-in-progress, texts and images are not definitive.
+You can browse the new website at <a href="http://ballard.dog" target="blank">ballard.dog</a>.
 
 
