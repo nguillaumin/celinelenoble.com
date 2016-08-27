@@ -5,17 +5,17 @@ title = "Science Museum Website"
 icon = "flask"
 +++
 
-## Earlier projects at Cité des sciences et de l'industrie
+### Earlier projects at Cité des sciences et de l'industrie
 
 Working as a project manager at <a href="http://www.cite-sciences.fr/en/home/" target="blank">Cité des sciences et de l'industrie</a>, a Science Museum in Paris, my first objective was to improve the experience of visitors, especially of teachers visiting with their class. 
 
-### Redesign of the Education website
+## Re-design of the Education website
 
 I was in charge of the Education website between 2005 and 2009. The first project was mostly directed to respond to internal user needs, such as empowering staff working in educational programs to update themselves the information regarding their program. To achieve this, we migrated the static website to a Content Management System. This also contributed to improve the experience of end users, as they had access to accurate and up-to-date information. 
 
 This transition was also the opportunity to redesign the structure and navigation, to make it user-oriented, rather than business oriented. The older version reflected the different departments, not the needs of visitors. For example, a primary teacher had to visit several different sub-sites to find all the relevant information for their students. The new organization simplified the access to information for the teachers, gathering all the programs they were interested in from the different sections in one place.  
 
-### Facilitate the use of online resources for teachers
+## Facilitate the use of online resources for teachers
 
 During this first phase, I identified others needs and problems teachers had when using the general website of the museum, which was a collection of different smaller websites, with no common navigation or organization. While the project to overhaul the entire website was led by another team, I worked with them to try and improve the outcomes for teachers. I also started a second project to facilitate the use of online resources by teachers and their classes.
 
@@ -26,7 +26,7 @@ During this first phase, I identified others needs and problems teachers had whe
 - Educate students in science early on to encourage them to pursue a career in STEM disciplines.
 
 <br>
-#### Objectives
+#### Museum Objectives
 - Increase the number of visits on the website.
 - Increase the number of school visits at the museum.
 

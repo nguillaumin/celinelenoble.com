@@ -11,7 +11,7 @@ This research includes many useful insights in players' motivations, goals and p
 
 Each persona is composite, the sum of multiple inputs. Each of them concentrates in one archetype several typical attributes I found in different players.
 
-### In brief
+## In brief
 
 - 230+ hours of participant observation in 118 days.
 - 12+ hours of interviews.
@@ -20,7 +20,7 @@ Each persona is composite, the sum of multiple inputs. Each of them concentrates
 - 6 personas
 
 <br>
-### Persona sample
+## Persona sample
 
 ![One of the personas created](/images/persona-sample.png "One of the personas created")
 

@@ -3,11 +3,13 @@
 }
 
 body {
-	font:17px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+    font-family: 'Quattrocento Sans', Helvetica, Arial, sans-serif;
 }
 
 nav.main-nav a {
     color: #bc1422;
+    font-size: 16px;
 }
 
 nav.main-nav a.active {
@@ -27,6 +29,10 @@ a,
     color: #bc1422;
 }
 
+#post-list a {
+    font-size:20px;
+}
+
 p a { color: #bc1422; }
 
 #post-list.archive.readmore a {
@@ -37,8 +43,29 @@ a.symbol:hover {
     color: #b75d65;
 }
 
+.profile h1 {
+    font-size:28px;
+    font-family:'Quicksand', sans-serif;
+}
+
+h3 {
+    font-weight:bold;
+    font-size:18px;
+}
+
+
 #post-list h2, #post-list h2.portfolio {
+    font-size:19px;
+}
+
+.profile h2, h1, .post h1, .post h2, #post-list a, h3, #post-list.archive.readmore h3, h4 {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+h2, #post-list h2, #post-list h2.portfolio, #post-list.archive.readmore a, figcaption h4 {
+    
     max-width: 600px;
+    font-family: 'Quattrocento Sans', sans-serif;
 }
 
 footer p.credits img {
@@ -62,6 +89,56 @@ p.twitter-timeline {
 img {
 	width: auto;
     max-width: 100%;
-	border-radius: 3px;
+    border: solid 1px #ddd;
     align-content: center;
+}
+
+
+/* Quicksand */
+
+/* latin */
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quicksand Regular'), local('Quicksand-Regular'), url(https://fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvW1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+/*Quattrocento Sans */
+/* latin-ext */
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento Sans'), local('QuattrocentoSans'), url(https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9T48MEBspdEKklcQvcIk8pU.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento Sans'), local('QuattrocentoSans'), url(https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9cZ4HySTEWshgORbPp2tk8k.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+/*Quattrocento*/
+/* latin-ext */
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento'), url(https://fonts.gstatic.com/s/quattrocento/v8/WZDISdyil4HsmirlOdBRFD0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento'), url(https://fonts.gstatic.com/s/quattrocento/v8/WZDISdyil4HsmirlOdBRFOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }

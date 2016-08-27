@@ -3,9 +3,9 @@ date = "2015-06-20T14:02:37+02:00"
 title = "About"
 hidden = true
 +++
-### Why UX?
+## Why UX?
 
-In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a project manager, and a good way of describing my teaching job would be Learning Experience Designer. 
+In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [project manager] (portfolio/csi), and a good way of describing my teaching job would be Learning Experience Designer. 
 
 
 
@@ -15,13 +15,13 @@ I believe in a holistic approach to UX research combining all perspectives: HCI,
 
 ***
 
-### Before that, I spent...
+## Before that, I spent...
 
-#### 10 years in Education
+### 10 years in Education
 
 5 years in France, 5 years in Australia.
 
-#### 5 years of Project Management
+### 5 years of Project Management
 
 at Cité des Sciences et de l'Industrie, Science Museum in Paris, in between my teaching positions.
 
@@ -29,24 +29,24 @@ More details on my [LinkedIn profile] (https://www.linkedin.com/in/celinelenoble
 
 ***
 
-### I love...
+## I love...
 
 all **new** things: meeting new people, visiting new countries, discovering new cultures, learning new technologies.
 
 
-#### Favorite sources of information (general)
+### Favorite sources of information (general)
 
 * <a href="https://theconversation.com" target="_blank">The Conversation</a> 
 * <a href="https://globalvoices.org" target="_blank">Global Voices</a>. 
 
 <br>
-#### Favorite games
+### Favorite games
 
 * <a href="http://www.no-mans-sky.com/" target="blank"> No Man's Sky</a>
 * <a href="http://www.lotro.com/en" target="blank">Lord of the Rings Online</a>
 
 <br>
-#### Favorite meal
+### Favorite meal
 
 * Wine, baguette and cheese.
 

@@ -9,14 +9,14 @@ Ballard.dog is a new business offering pet care services in Ballard, Seattle. Th
 
 {{< figure src="/images/ballard-website.png" title="Before: First two versions of Ballard.dog using Website Builder template" >}}
 
-### Business goals
+## Business goals
 
 - Build a local customer base.
 - Differentiate themselves both from large corporate dog-walking businesses and non-professional networking platforms.
 - Manage the website themselves.
 
 <br>
-### The re-design process
+## The re-design process
 
 I used several approaches concurrently:
 
@@ -26,7 +26,7 @@ I used several approaches concurrently:
 - **defining users' expectations**. This was done through short interviews of dog owners, as well as a quick questionnaire.  
 
 <br>
-### UX insights
+## UX insights
 
 User research revealed a number of needs and pain points with existing pet care services. 
 
@@ -37,7 +37,7 @@ User research revealed a number of needs and pain points with existing pet care 
 <br>
 These insights were used to reframe the services offered and reword their descriptions on the website, enphasizing flexibility in terms of schedule, adaptability to all types of dogs and personal attention given to the pet.
 
-### The new design
+## The new design
 
 I recommended using wordpress rather than website builder, for its greater flexibility, possibility to use a responsive theme and ease of use, in particular for updates and new contributions.
 
