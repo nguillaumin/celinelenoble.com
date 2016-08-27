@@ -47,6 +47,8 @@ SectionPagesMenu = "main"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
+	sectionMenus = ["portfolio"]
+
 	[params.portfolio]
 		readMore = "Other projects"
 
