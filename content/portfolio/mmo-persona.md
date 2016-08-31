@@ -17,7 +17,7 @@ Each persona is composite, the sum of multiple inputs. Each of them concentrates
 - 12+ hours of interviews.
 - 1988+ pages read (not counting articles).
 - 88 pages written (+ 78 pages in annexes) .
-- 6 personas
+- captured in 6 personas
 
 <br>
 ## Persona sample

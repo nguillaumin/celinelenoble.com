@@ -7,7 +7,7 @@ icon = "life-ring"
 
 ![Doris Women Refuge Logo](/images/dwr-logo.png "Doris Women Refuge Logo")
 
-Doris Women Refuge is a charitable association in Canberra that provides emergency and medium term accommodations for women and their children who are victims of family and domestic violence. They had no website, their time being entirely dedicated to helping women and children. 
+Doris Women Refuge is a charitable association in Canberra that provides emergency and medium term accommodation for women and their children who are victims of family and domestic violence. They had no website, their time being entirely dedicated to helping women and children. 
 
 ## Their objectives
 
@@ -16,7 +16,7 @@ Doris Women Refuge is a charitable association in Canberra that provides emergen
 - Provide information about domestic and family violence, especially to victims.
 
 <br>
-Contrary to a typical business, Doris Women Refuge wasn't looking for more customers. Unfortunately, they almost never have any place available. A specific system is in place for victims of domestic and family violence to find accommodations, and their customers are mostly referred through this system. 
+Contrary to a typical business, Doris Women Refuge wasn't looking for more customers. Unfortunately, they almost never have any place available. A specific system is in place for victims of domestic and family violence to find accommodation, and their customers are mostly referred through this system. 
 
 ## Needs for Safety: Special Challenges
 
