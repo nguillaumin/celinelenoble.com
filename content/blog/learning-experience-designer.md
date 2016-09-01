@@ -1,27 +1,48 @@
 +++
 date = "2016-08-16T14:51:26-07:00"
-description = "When you start thinking about it, there are many similarities between teaching and UX design."
+description = "Why teaching is an excellent preparation to work in the UX field."
 title = "Learning Experience Designer"
 draft = true
 +++
 
-The transition from teaching to UX might seem unexpected, but they have in fact many things in common. In fact, you could think of a teacher as a Learning Experience Designer.
+Most UX professionals come from a graphic design background. But UX Design is much more than designing a good user interface. Experience Design involves psychology, cognition, emotions, cultural background, social interactions, context of use in the largest meaning. This makes teaching a perfect background experience to work in UX.
 
-## Both are human centered
+Here's why:
 
-Teachers and designers both work with human and to improve human experience; human meaning students and learners for the former, or users for the later. 
+## Teachers develop exceptional empathy skills
 
-Designers have to work towards business goals, and it's not always easy to conciliate good UX and some business tricks. Teachers' objectives are layed out in the curriculum. They also have to reconcile curriculum demands and students' desires, which are not always aligned.
+One golden rule of UX is that you, as a designer, are not the user. Users will feel, think, act differently. You have to put yourself in their shoes if you want to create a good experience for them.
 
-## Cognitive science and psychology
+Stepping out of your shoes to put on someone else's is something teachers do every day. It's a necessary part of their job to understand how their students feel, why they think and act like that. All human have basic empathy skills, but this goes beyond simply emotional empathy (feeling what another is feeling). It's intellectual empathy: understanding how and why someone feels like that. 
 
-To achieve this, in both cases, you have to know your audience well. As a teacher, it means knowing about your pupils both in a theoretical way and a personal one. 
+It's hard to completely put aside what you know, what you think and feel. As with any skills, it takes practice to become really good at it. Teachers have to understand the thought processes of a student who keep making the same mistake, in order to help him out. They have to read the true motivations and feelings hidden behind challenging behaviors, to de-escalate potential conflicts. They do that so often, it's a second nature to them.
+
+So when it comes to stepping into a customer's shoes, teachers are well-equiped. 
+
+## Teachers always put their students first
+
+UX designers are often asked to put users at the center of their product (while keeping business goals in mind). 
+
+Teachers will always have their students well-being and interest as their number one priority, but they are also used to deal with many external constraints, such as curriculum and standardized tests.
+
+## Teachers are used to manage human cognitive limitations
+
+One of the challenges of UX is to make designs that will support how the human mind actually works.
+
+Teachers are, in a way, experts in human cognition. Their work is entirely directed towards shaping thought processes, enabling their students to acquire knowledge and skills. They know first hand about cognitive load and short attention span. They have developed strategies to work with them, many of them are similar or directly transferable to user centered design. 
+
+## Teachers practice their psychology skills daily
+
+Understanding the psychology of users is essential in creating a good experience. 
+
+Teachers often have at least some psychology background through their studies. They also get to test the theories they learned every day. They observe behaviors, analyze and act upon them based on their training and experience. 
+
 
 Theory means you know and use development phases and cognitive abilities at different stages, so a teacher is already familiar with cognitive load, working memory, attention span and is used to work within these constraints. Theory means also psychology, especially behavioral psychology: how to explain existing behaviors, how to motivate students and encourage productive attitudes. Not only do teachers know about the theories, they get to apply and test them every day.
 
 Cognitive science and psychology are two essential components in crafting a good user experience. Children and adults do differ on these two aspects, but not so much as we might think.
 
-## Do some research
+
 
 The obvious difference is that a teacher get to know their students personally too, which no doubt makes it easier to design tailored made activities and lessons. 
 
@@ -29,13 +50,13 @@ This the reason why I believe UX research is so important in design. Sure you ca
 
 Teachers also do some user research in their own way: tests (especially diagnostic ones) are used to inform their teaching.
 
-## Holistic thinking
+## Teachers design holistic experience
 
 Teachers are used to think of experience as a whole: they design both the learning supports (from paper to websites, including presentations and interactive whiteboard exercises), the activities around them and what's to be done before or after class. 
 
 UX designers don't just craft a usable interface, but what's more and more known as customer experience, encompassing not only the interactions within the website or application, but all the online and offline activities (from tweets and facebook posted by friends, online reviews to customer service).
 
-## Emotional design
+## Teachers constantly harness the power of emotions in the classroom
 
 Teachers are used to harness the power of emotions to improve learning. Strong, positive emotions are associated with better memorization. Provoking and dealing with emotions is undoubtedly easier face-to-face than when the experience is mediated through an interface. 
 
