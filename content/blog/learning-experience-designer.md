@@ -7,13 +7,13 @@ draft = true
 
 Most UX professionals come from a graphic design background, but UX Design is much more than designing a good user interface. Experience Design involves psychology, cognition, emotions, cultural background, social interactions, context of use in the largest meaning. This makes teaching an excellent background experience to work in UX.
 
-Here are five reasons why:
+Here's why:
 
 ## Teachers develop exceptional empathy skills
 
 One golden rule of UX is that you, as a designer, are not the user. Users will feel, think, act differently. You have to put yourself in their shoes if you want to create a good experience for them.
 
-// image shoes collage
+{{< figure src="/images/shoes.jpg" title="Step in..." alt="collage of nine worned pair of shoes" attr="Source: Flickr - Creative Commons commercial use and modifications allowed - Authors: Leopold Terence, Zeborah, scott feldstein, andrew garton, bazzadarambler, Caroline, Philms, aforonda, Magnus D." >}}
 
 Stepping out of your shoes to put on someone else's is something teachers do every day. It's a necessary part of their job to understand how their students feel, why they think and act like that. All humans have basic empathy skills, but this goes beyond simple emotional empathy (feeling what another is feeling). It's intellectual empathy: understanding how and why someone feels like that. 
 
@@ -51,7 +51,7 @@ Emotional design is a relatively new concept, even if emotions have long been us
 
 Teachers are used to harness the power of emotions to improve learning. First, emotions sometimes run high, and not always positively, in a classroom. Knowing how to regulate emotions and bring things back to normal is one of their essential skills. This situation could be compared to either an angry customer who wasn't satisfied by the answers he got, or a frustrated one, who can't figure out how to find what he's looking for. Anticipating and planning for these situations can help appease the customers and win them back. Second, teachers know that having fun, laughing, surprising people are a great way to captivate their audience, and make the learning stick in the mind of their students. In the same way, a designer wants its website or product to be positively remembered.
 
-// img women shopping
+{{< figure src="/images/shopper.jpg" title="Happy Experience - Loyal Customer" attr="Source/credit: © Andres Rodriguez / Dreamstime" >}}
 
-Of course, most teaching practices take place face-to-face, whereas the designer don't interact directly with users. However, we saw that a large number of face-to-face strategies can be transposed to interactions mediated through a website or a product. What's important is for both, teachers and designers, to be able to step in the shoes of their audience. It takes a number of skills and qualities that teachers have honed throughout their career.
+Of course, most teaching practices take place face-to-face, whereas the designer don't interact directly with users. However, a large number of face-to-face strategies can be transposed to interactions mediated through a website or a product. What's important is for both, teachers and designers, to be able to step in the shoes of their audience. It takes a number of skills and qualities that teachers have honed throughout their career.
 
