@@ -2,7 +2,6 @@
 date = "2016-08-16T14:51:26-07:00"
 description = "Why teaching is an excellent preparation to work in the UX field."
 title = "Learning Experience Designer"
-draft = true
 +++
 
 UX Design is much more than designing a good user interface. Designing a user experience, whether it is analog, digital or both, involves psychology, cognition, emotions, cultural background, social interactions, context of use in the largest meaning. This makes teaching an excellent background experience to work in UX.

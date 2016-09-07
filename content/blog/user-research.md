@@ -1,8 +1,7 @@
 +++
 date = "2016-09-06T13:02:46-07:00"
-description = "Reaction to two recent pieces of news"
+description = "Reaction to two recent pieces of news."
 title = "Why You Need Dedicated User Researchers"
-draft = true
 +++
 
 I saw two pieces of news recently about User Research that made me react. They both questioned the need and quality of user research. 

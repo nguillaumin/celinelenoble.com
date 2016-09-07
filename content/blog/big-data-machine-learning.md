@@ -2,7 +2,7 @@
 date = "2016-09-06T14:28:35-07:00"
 description = ""
 title = "big data machine learning"
-
+draft=true
 +++
 
 

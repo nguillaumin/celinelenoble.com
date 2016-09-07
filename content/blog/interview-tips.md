@@ -2,7 +2,6 @@
 date = "2016-08-18T09:35:17-07:00"
 description = "Short user interviews are a very good way to start exploring a new UX field."
 title = "Six Tips for Short User Interviews"
-draft = true
 +++
 
 Short user interviews are unscheduled interviews, done directly in the field. They are very useful to start researching a domain. You can quickly get a good idea of the user experience with a product or a service, and uncover high levels needs and problems. 
