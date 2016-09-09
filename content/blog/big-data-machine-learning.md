@@ -2,7 +2,6 @@
 date = "2016-09-08T14:28:35-07:00"
 description = "Machine learning is a powerful, but be careful how you use it."
 title = "Machine Learning: Opportunities Are Not What You Think They Are"
-draft=true
 +++
 
 
