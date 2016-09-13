@@ -5,7 +5,7 @@ title = "Building MMO Players Personas"
 icon = "desktop"
 +++
 
-As a research project for my Anthropology degree, I studied a Massive Multiplayer Online Game *The Lord of the Rings Online*. I used participant observation and interviews to conduct this ethnographic research. I wrote my thesis on MMO and social representations, using my research as well as academic and industry studies.
+As a research project for my Anthropology degree, I studied a Massive Multiplayer Online Game *The Lord of the Rings Online*. I used participant observation and interviews to conduct this ethnographic research. Observations were conducted within the game world only and not face-to-face. I was participating as a player. Other players knew me both as a player and a researcher. This way, I achieved a greater proximity with other players and obtained a better understanding of the game and social dynamics. I took notes on every session on a research journal. I also conducted long interviews (one hour on average) using mostly voice-chat software, but also text chat in two cases. To reduce and expose the potential biases introduced by my participation, I conducted an analysis based on auto-anthropology method of my own participation in the game and its impacts on the research. These three methodological aspects worked in complementarity to corroborate information gathered through different sources. I wrote my thesis on MMO and social representations, using my research as well as academic and industry studies.
 
 This research includes many useful insights in players' motivations, goals and pain points, but an 88-page thesis wasn't the best format to communicate them. So I chose to create six personas to illustrate my findings in a synthetic and concrete way. 
 
