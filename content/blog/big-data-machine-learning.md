@@ -16,7 +16,7 @@ The first misunderstanding is to think that because it's a machine, it's going t
 
 {{< figure src="/images/matrix.jpg" title="Are we living in a vast simulation?" attr="Source: www.zastavki.com/eng/Movies/wallpaper-1339.htm" >}}
 
-The second misunderstanding is a natural consequence of the first: as machine learning is thought to be "objective", learning algorithms would do a better job than humans at a ton of things. We have a tendency to positivism, the belief that technology and science can solve all our problems, almost miraculously. Some claims about machine learning sound indeed over-enthusiastic. So machine learning or big data algorithms are used in many situations, even though this might result in small or large failures. Machine learning specialists themselves still struggle with what they call the interpretability of machine learning, basically why the machine produces the results they produce. For more details on this topic, read [this article.] (nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable?)
+The second misunderstanding is a natural consequence of the first: as machine learning is thought to be "objective", learning algorithms would do a better job than humans at a ton of things. We have a tendency to positivism, the belief that technology and science can solve all our problems, almost miraculously. Some claims about machine learning sound indeed over-enthusiastic. So machine learning or big data algorithms are used in many situations, even though this might result in small or large failures. Machine learning specialists themselves still struggle with what they call the interpretability of machine learning, basically why the machine produces the results they produce. For more details on this topic, read [this article.] (http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable?)
 
 What machine learning does, and does very well, is to take in a huge amount of data, and make a synthesis of all this data for human consumption. No human can tackle the large amount data on the order we're talking about. The synthesis that is produced is a kind of clearer picture of what is going on in the initial data. It allows humans to get a better understanding. Machine learning could be the reverse equivalent of a microscope for social science. The microscope enlarges the very small so it's visible to biologists and physicists. The "macroscope" of machine learning reduces extremely large and complexe data into something understandable by sociologists and anthropologists. 
 
@@ -43,7 +43,7 @@ Machine learning is a very powerful tool to investigate human society. I believe
 
 Two great articles on machine learning:
 
-- Aaron M. Bornstein, [Is Artificial Intelligence Permanently Inscrutable?] (nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable?)
+- Aaron M. Bornstein, [Is Artificial Intelligence Permanently Inscrutable?] (http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable?)
 - Moritz Hardt, [Approaching fairness in machine learning] (http://blog.mrtz.org/2016/09/06/approaching-fairness.html) 
 
 
