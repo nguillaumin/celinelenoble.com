@@ -72,6 +72,8 @@ The implementation took the form of a webOS (eyeOS) where teachers could easily 
 
 Together with a colleague from the IT department, we supervised the development of the Virtual Learning Environment done by a contractor, Buzzaka.
 
-However, the integration with ENT was not possible to implement at first, limiting the audience to the teachers visiting the website. I had initiated a number of contacts with ENT providers and education organizations to try and establish partnership including SSO and sharing of resources, but this was not followed through after I left.
+#### Outcomes
+
+These projects contributed to an increase in the numbers of visits of teachers and their classes both online, and in the museum.
 
 
