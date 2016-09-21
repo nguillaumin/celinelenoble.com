@@ -39,7 +39,13 @@ These insights were used to reframe the services offered and reword their descri
 
 ## The new design
 
-I recommended using wordpress rather than website builder, for its greater flexibility, possibility to use a responsive theme and ease of use, in particular for updates and new contributions.
+I recommended using wordpress rather than website builder, for its greater flexibility, possibility to use a responsive theme and user-friendliness for non technical people, in particular for updates and new contributions.
+
+{{< figure src="/images/ballard-desktop.png" title="Desktop" >}}
+
+{{< figure src="/images/ballard-tablet.png" title="Tablet" >}}
+
+{{< figure src="/images/ballard-phone.png" title="Phone" >}}
 
 
 I suggested a parallax layout, using the wordpress theme <a href="https://wordpress.com/themes/affinity/" target="_blank">Affinity</a>. Customers can thus browse through the services and testimonials without clicking. Large images of animals currently in their care are both a way to draw animal lovers to the website and incite them to scroll further. They also reinforce the message that pets are safe and happy at ballard.dog.
