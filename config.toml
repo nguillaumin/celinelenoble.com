@@ -16,7 +16,7 @@ SectionPagesMenu = "main"
 	bio = "User Research - Experience Design"
 	# Enter optionally your twitter account
 	twitter = "@CelineLenoble"
-	enableRSS = false
+	enableRSS = true
 
 	# Add custom assets with their paths relative to the static folder
 	customCSS = ["css/custom.css"]
