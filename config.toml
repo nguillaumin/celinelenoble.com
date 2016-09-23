@@ -57,6 +57,9 @@ SectionPagesMenu = "main"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/CelineLenoble"
+    github = "https://github.com/clenoble"
+	twitter  = "https://www.twitter.com/CelineLenoble"
     linkedin = "https://www.linkedin.com/in/celinelenoble"
+
+
 
