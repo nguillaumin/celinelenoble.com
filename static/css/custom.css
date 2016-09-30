@@ -3,13 +3,14 @@
 }
 
 body {
-	font-size:18px;
-    font-family: 'Quattrocento Sans', Helvetica, Arial, sans-serif;
+	font-size:20px;
+    font-family: 'Crimson Text', Helvetica, Arial, sans-serif;
 }
 
 nav.main-nav a {
     color: #bc1422;
     font-size: 16px;
+    font-family: 'Quattrocento Sans', sans-serif;;
 }
 
 nav.main-nav a.active {
@@ -58,14 +59,22 @@ h3 {
     font-size:19px;
 }
 
-.profile h2, h1, .post h1, .post h2, #post-list a, h3, #post-list.archive.readmore h3, h4 {
+h1, .post h1, .post h2, #post-list a, h3, #post-list.archive.readmore h3, h4 {
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
-h2, #post-list h2, #post-list h2.portfolio, #post-list.archive.readmore a, figcaption h4 {
+h2, #post-list.archive.readmore a, figcaption h4 {
     
     max-width: 600px;
     font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#post-list h2, #post-list h2.portfolio {
+    font-family: 'Crimson Text', sans-serif;
+}
+
+.profile h2 {
+    font-family: 'Quicksand', sans-serif;
 }
 
 footer p.credits img {
@@ -153,5 +162,15 @@ figcaption p {
   font-style: normal;
   font-weight: 400;
   src: local('Quattrocento'), url(https://fonts.gstatic.com/s/quattrocento/v8/WZDISdyil4HsmirlOdBRFOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/* Crimson Text */
+/* latin */
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Crimson Text'), local('CrimsonText-Roman'), url(https://fonts.gstatic.com/s/crimsontext/v6/3IFMwfRa07i-auYR-B-zNegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
