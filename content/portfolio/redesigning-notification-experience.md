@@ -2,7 +2,7 @@
 date = "2016-11-20T15:04:39-08:00"
 description = "Re-designing the notification experience"
 title = "Swiftly sift your notifications"
-
+icon = "bell"
 +++
 
 Managing information takes more and more time, thanks to our multiple devices. There are obvious benefits, but also many downsides to this connected life. What could be done to keep us in touch with what we need, and minimize the noise?
