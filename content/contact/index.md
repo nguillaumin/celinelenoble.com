@@ -14,6 +14,10 @@ hidden = true
 
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/CelineLenoble">@CelineLenoble</a>
 
+<a href="https://www.upwork.com/o/profiles/users/_~010dcaadf0e99f54c3/">Upwork</a>
+
+
+
 
 --------
 
