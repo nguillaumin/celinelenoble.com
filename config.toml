@@ -33,7 +33,7 @@ SectionPagesMenu = "main"
 	olderPosts = ""
 	newerPosts = ""
 
-	copyright = ""
+	copyright = "© 2017"
 	# Sharing options and author information in posts
 	aboutAuthor = ""
 	tweet = ""
@@ -60,6 +60,7 @@ SectionPagesMenu = "main"
     github = "https://github.com/clenoble"
 	twitter  = "https://www.twitter.com/CelineLenoble"
     linkedin = "https://www.linkedin.com/in/celinelenoble"
+	
 
 
 
