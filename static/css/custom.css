@@ -115,6 +115,10 @@ figcaption p {
     margin-top: -15px;
 }
 
+#logo {
+    border: none;
+}
+
 
 /* Quicksand */
 
