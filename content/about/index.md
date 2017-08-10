@@ -3,15 +3,25 @@ date = "2015-06-20T14:02:37+02:00"
 title = "About"
 hidden = true
 +++
-## Why UX?
 
-In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [Project Manager] (/portfolio/csi), and a good way of describing my work as a teacher would be [Learning Experience Designer] (/blog/learning-experience-designer). 
+I believe in a holistic approach to UX research and design combining all perspectives: Human Computer Interaction, design thinking, psychology, sociology, anthropology and all methods: from big data to ethnographic study. 
 
+Empathy alone is not enough, detailed statistics aren't either. Only a combination of the two, informed by psychological and sociological theories, can allow us to transform data into actionable insights, to bridge the gap between the facts and the causes, to understand the likely impacts of technology and change both at a micro (individual) and a macro (society) level.
 
+## What I do
 
-So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOs and social representations] (/portfolio/mmo-persona). I graduated in June 2016. I also spent heaps of time learning and practicing UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera. I also delved in the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)). I am currently working as a User Research Program Manager at <a href="http://www.workworks.io" target="_blank">WorkWorks.io</a>, an exciting startup founded by Karrie Sullivan to bring design thinking into HR to reshape organizations so that work finally works!
+I am a User Research Program Manager at <a href="http://www.workworks.io" target="_blank">WorkWorks.io</a>, an exciting startup founded by Karrie Sullivan to bring design thinking into HR to reshape organizations so that work finally works!
 
-I believe in a holistic approach to UX research combining all perspectives: HCI, psychology, sociology, anthropology and all methods: from big data to ethnographic study.
+I conduct UX research and participate in the redesign of the future version of <a href="http://www.kusri.com" target="_blank">Kusri</a>, a social research platform making high quality data collection and management easily accessible to everyone.
+
+Also through <a href="https://www.upwork.com/o/profiles/users/_~010dcaadf0e99f54c3/" target="_blank">Upwork</a>, I designed user flows, wireframes and low-fidelity prototypes, and conducted market research, usability testing, heuristic assessment, and UX recommendations for a variety of clients.
+
+## How did I get there
+
+In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [Product Manager] (/portfolio/csi), and a good way of describing my work as a teacher would be [Learning Experience Designer] (/blog/learning-experience-designer). 
+
+So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOs and social representations] (/portfolio/mmo-persona). I graduated in June 2016. I learned and practiced UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera for some 40 weeks. I also delved into the **UX community** news and feeds, where I learned a lot from articles and posts. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)). 
+
 
 ***
 
@@ -21,7 +31,7 @@ I believe in a holistic approach to UX research combining all perspectives: HCI,
 
 5 years in France, 5 years in Australia.
 
-### 5 years of Project Management
+### 5 years of Project Coordination and Product Management
 
 at Cité des Sciences et de l'Industrie, Science Museum in Paris, in between my teaching positions.
 
