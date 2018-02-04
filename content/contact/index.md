@@ -19,9 +19,4 @@ hidden = true
 
 
 
---------
-
-### I'd love to hear from you!
-
-Use the form below to send me a quick message.
 
