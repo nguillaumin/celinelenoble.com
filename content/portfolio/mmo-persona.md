@@ -35,6 +35,16 @@ Each persona is composite, the sum of multiple inputs. Each of them concentrates
 
 ![One of the personas created](/images/persona-sample.png "One of the personas created")
 
+## My take on the use of personas in UX - Update 5/21/2018
+
+There have been a lot of discussions on what kind of information should be part of a persona or not, how to communicate personas, and how to use them. 
+
+My study was not informed by specific business goals. However, I constantly had in mind the objective to uncover design opportunities. As such, these personas would be useful very early in the design process, as part of a need-finding study. Once a specific product or service idea is validated, some of these personas would need to be reviewed and refined based on the design concept. 
+
+I chose to use a photo for each persona. A significant part of the human brain is devoted to identifying and decoding face features. This can lead people to automatically make false assumptions, but it also makes the persona easier to remember and empathize with. I hope to balance the former by giving a clear story highlighting the circumstances and motivations, so the readers can rethink their assumptions. This choice actually depends on the audience for whom I'm designing the persona for. 
+
+Lastly, I included some demographics information. I don't think demographics information should be systematically included, but only when they are relevant. Some demographic information can be important to mention, depending on the product/service and context of use. This question is part of a much larger debate on the relevance of psychological vs sociological factors to explain an individual thoughts and behavior. In short, both are relevant. Some people are often reluctant to categorizations because any kind of category seems to reduce your (their) individuality. It might be even more pronounced among designers, who by definition are creative people, who regard themselves as unique. However, sociological studies are more reliable than psychological studies (in terms of reproducibility). Plus, there are often an inter-play between sociological and psychological factors. Focusing only on one aspect will give the designers an incomplete view. 
+Nonetheless, in the future, if I choose again to include relevant pieces of demographic information, I will draw them from sociology studies and state the reason for including them explicitly.  
 
 
 
