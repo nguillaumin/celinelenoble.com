@@ -6,7 +6,7 @@ hidden = true
 
 ### How to get in touch
 
-<i class="fa fa-mobile"></i>  +1 206 458 9046 
+<i class="fa fa-mobile"></i>  +41 79 644 40 90 
 
 <i class="fa fa-envelope"></i> <a href="mailto:ux(at)celinelenoble.com"> ux (at) celinelenoble.com </a>
 
