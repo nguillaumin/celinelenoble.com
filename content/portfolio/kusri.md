@@ -8,8 +8,11 @@ icon = "bar-chart"
 
 [Kusri.com] (https://kusri.com) is the 1st project where I owned the UX design process end-to-end, from research, design to tests and graphic supervision. 
 
+{{< figure src="/images/kusri-home.png" >}}
+
 ## Target users: 
 Professional evaluators.
+
 
 ## Business objectives
 Kusri had released a beta version of their platform in 2016. While getting traction with a few customers, they also received a number of negative feedback and complaints. Kusri team had to step in regularly to help customers finalize their projects or make modifications. Such a high level of human involvement was not scalable.
@@ -35,6 +38,8 @@ Kusri.com aims to offer a unique platform that make it easier to manage complex 
 * Supervision of graphic design from a UX perspective
 * Communication with development and QA teams to ensure faithful implementation 
 
+{{< figure src="/images/kusri-v1.jpg" title="Kusri v1" >}}
+
 ## Key research insights
 
 Initially, both independent evaluators and assessments professionals working in institutions (mostly in Education) were targeted. While their needs and expectations are mostly similar, the research still revealed some differences, so we decided to focus on professional evaluators at first.
@@ -46,6 +51,8 @@ The user flow in the first version of Kusri was too rigid and not adapted to rea
 New user needs and pain points were identified such as the difficulty to communicate their evaluation process to other stakeholders. New features were added, and more are planned to facilitate communication between all parties. 
 
 Usability testing revealed specific needs for data collectors, who are an essential part of the evaluation process, but are often overlooked. A data collector role already existed, but we streamlined the data collector flow to make it easier and quicker to enter data from participants. 
+
+{{< figure src="/images/kusri-v2.jpg" title="Kusri v2" >}}
 
 ## Lessons learned
 Talking to users who had no previous experience and had not heard of Kusri before was the most valuable. Interviews of existing users also gave insightful data, but a few interviewees who had a demo not too long ago obviously repeated the sales pitch, rather than talking from their own experience and point of view. 

@@ -23,3 +23,4 @@ One-hour interview with about 5 persons for each category of users (4 categories
 
 InquisitHealth made effective changes to their app as a direct result of the research findings. After a 1st round of research for one product, they decided to extend user research to a 2nd product. 
 
+{{< figure src="/images/PeerStrong.png" title="PeerStrong website" >}}

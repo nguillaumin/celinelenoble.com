@@ -11,6 +11,7 @@ Understand which UX strategies made these platforms leader in their respective d
 
 Identify UX patterns relevant and applicable in a completely different industry
 
+
 ## Process
 
 * Define framework analysis (11 areas of interest - 50+ criteria)
@@ -18,4 +19,10 @@ Identify UX patterns relevant and applicable in a completely different industry
 
 ## Deliverables
 * Exhaustive presentation highlighting relevant UX patterns (90% visual - 100+ slides)
-* One pager summarizing top 9 UX patterns
+* One pager summarizing Top UX patterns
+
+-
+
+
+
+{{< figure src="/images/top-UX-pattern.jpg" title="Top UX patterns" >}}

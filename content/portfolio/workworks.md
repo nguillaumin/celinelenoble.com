@@ -19,6 +19,8 @@ I have collaborated with Karrie Sullivan from [WORKWORKS] (http://workworks.io/)
 
 -- While HR services already do some user-oriented research, the methodology and objectives are different from user research for a design perspective. The most common tool used is employee satisfaction surveys. Typically designed with corporate objectives in mind, these surveys often miss the root cause issues and deeper needs of employees. Of course, HR employees often have an intimate knowledge of the inner workings of the organization and people, but this detailed and personal view can in fact hide more general patterns. In observing people through qualitative research, we begin to *understand the difference between what people say, and what they actually do*.
 
+{{< figure src="/images/workworks-workshop.jpg" title="Design thinking workshop" >}}
+
 ## Business objectives
 HR services often appears as support for the truly “productive” divisions: product, engineering, sales and marketing. One of the objectives of Workworks and why these companies hired us is that we see HR practices as capable of driving business value. 
 
