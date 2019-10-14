@@ -14,7 +14,11 @@ hidden = true
 
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/CelineLenoble">@CelineLenoble</a>
 
+<a href="https://www.slascher.ch/fr/annonces/ad/autres-15-165/ux-researcher-designer-4673#dj-classifieds?limitstart=0">Slascher</a>
+
 <a href="https://www.upwork.com/o/profiles/users/_~010dcaadf0e99f54c3/">Upwork</a>
+
+
 
 
 

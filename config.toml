@@ -33,7 +33,7 @@ SectionPagesMenu = "main"
 	olderPosts = ""
 	newerPosts = ""
 
-	copyright = "© 2018"
+	copyright = ""
 	# Sharing options and author information in posts
 	aboutAuthor = ""
 	tweet = ""
