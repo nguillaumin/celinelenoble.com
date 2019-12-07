@@ -63,7 +63,7 @@ h1, .post h1, .post h2, #post-list a, h3, #post-list.archive.readmore h3, h4 {
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
-h2, #post-list.archive.readmore a, figcaption h4 {
+#post-list.archive.readmore a, figcaption h4 {
     
     max-width: 600px;
     font-family: 'Quattrocento Sans', sans-serif;
@@ -85,6 +85,11 @@ footer p.credits img {
 
 footer p.credits a {
     color: inherit;
+}
+
+#social a {
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 p.twitter-timeline {
