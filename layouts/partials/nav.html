@@ -1,5 +1,5 @@
 <nav class="main-nav">
-	{{ $currentURL := .URL }}
+	{{ $currentURL := .RelPermalink }}
 	{{ $currentSection := .Section }}
 	{{ $baseURL := .Site.BaseURL }}
 	{{ range $menu := .Site.Params.sectionMenus }}
