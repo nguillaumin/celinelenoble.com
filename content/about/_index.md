@@ -52,14 +52,15 @@ all **new** things: meeting new people, visiting new countries, discovering new 
 * <a href="https://globalvoices.org" target="_blank">Global Voices</a>. 
 
 <br>
+
 ### Favorite games
 
 * <a href="http://www.no-mans-sky.com/" target="blank"> No Man's Sky</a>
 * <a href="http://www.lotro.com/en" target="blank">Lord of the Rings Online</a>
 
 <br>
-### Favorite meal
 
+### Favorite meal
 * Wine, baguette and cheese.
 
 
