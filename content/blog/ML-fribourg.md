@@ -4,10 +4,10 @@ description = "Talk at Machine Learning Fribourg Meetup"
 title = "Fairness Awareness in ML models"
 +++
 
-Below is a talk I gave during the [ML Fribourg meetup](https://www.meetup.com/Fri-ML/) on November 27th 2019. 
+Below is a talk I gave during the [ML Fribourg meetup](https://www.meetup.com/Fri-ML/) on November 27th 2019, based on a 2017 paper by Brian d'Alessandro, Cathy O'Neil and Tom Lagatta entitled [Conscientious Classification: A Data Scientist's guide to Discrimination-Aware Classification](https://www.liebertpub.com/doi/abs/10.1089/big.2016.0048). 
 
 {{< youtube M-e32EIGFIU >}}
 
-I have a deep interest in Machine Learning and Deep Learning for a few years now and I felt the need to get more hands-on experience. I joined the ML Fribourg meetup in October. Even though they are on the technical side of ML, they welcomed my participation as a UX specialist. I wanted to open the discussion on the potential for discrimination in ML which, quite obviously, can have a huge impact on user experience.
-
 The talk led to a fruitful discussion (not recorded) about the need for data normalization, the risk involved in augmenting the loss function with a fairness-regularizer, algorithm aversion, what incentives could companies have to introduce more fairness, the need for regulation and more.
+
+You can download the slides [here](https://gitlab.com/fri-ml/meetups/tree/master/2019-11-27_fairness-awareness-in-ML-models). They include additional links and a summary of the topics raised during the discussion.
