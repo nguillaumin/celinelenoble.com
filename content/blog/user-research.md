@@ -6,7 +6,7 @@ title = "Why You Need Dedicated User Researchers"
 
 I saw two pieces of news recently about User Research that made me react. They both questioned the need and quality of user research. 
 
-The first was from this article <a href="https://www.fastcodesign.com/3063318/5-design-jobs-that-wont-exist-in-the-future" target="blank">Five Design Jobs That Won't Exist In The Future</a>. 
+The first was from this article [Five Design Jobs That Won't Exist In The Future](https://www.fastcodesign.com/3063318/5-design-jobs-that-wont-exist-in-the-future). 
 
 > "Design research as we know it may cease to exist—at least in terms of the types of ethnographic field work we do today. Research—-and researchers—-will likely be marginalized by new forms of automated data and insight generation, compiled via remote sensing and delivered through technologies like virtual reality." 
 
@@ -18,11 +18,11 @@ Big data will be useful in evaluating the effectiveness of a CTA, in usability o
 
 {{< figure src="/images/second-life.jpg" title="Rewind and replay customer experience, Second Life style? " alt="Screenshot of a player in Second Life" attr="Source: Flickr - Creative Commons commercial use and modifications allowed - Author: TORLEY." >}}
 
-Or maybe what John Rousseau means could be that there are so many remote sensors that we can basically replay the customer's life at will in a virtual reality setting. Not speaking of the privacy issues this would likely have, it would be like an observation study, except it's done remotely, with less interference from the observator. Except that, unless a device to read the mind of people is invented (or people become use to think aloud for the benefit of the companies who watch them), we won't learn about the motivations and reasoning simply by watching. Interviews and real-life interactions are likely to be necessary. 
+Or maybe what John Rousseau means could be that there are so many remote sensors that we can basically replay the customer's life at will in a virtual reality setting. Not speaking of the privacy issues this would likely have, it would be like an observation study, except it's done remotely, with less interference from the observator. Except that, unless a device to read the mind of people is invented (or people become used to think aloud for the benefit of the companies who watch them), we won't learn about the motivations and reasoning simply by watching. Interviews and real-life interactions are likely to be necessary. 
 
 That's why I think ethnographic research is and will be an essential complement to big data. Research works best when it combines results and insights from both qualitative and quantitative studies.
 
-Another article I strongly reacted to is <a href="https://hondo.wtf/posts/on-personas/" target="blank">Personas, you don't need them</a>, from Matthew Crist. The main argument here is that personas are biased, so not only there's no need for them, but implicitly, you shouldn't use them, and if you still do so, you're a deeply biased (sexist, racist, choose your flavor) person. Instead you should use this new JTBD framework (Jobs To Be Done). I think that task centered design or JTBD has merits, and both methodologies are not incompatible in my mind, they can even work in complementarity, so why disparage personas?
+Another article I strongly reacted to is [Personas, you don't need them](https://hondo.wtf/posts/on-personas/), from Matthew Crist. The main argument here is that personas are biased, so not only there's no need for them, but implicitly, you shouldn't use them, and if you still do so, you're a deeply biased (sexist, racist, choose your flavor) person. Instead you should use this new JTBD framework (Jobs To Be Done). I think that task centered design or JTBD has merits, and both methodologies are not incompatible in my mind, they can even work in complementarity, so why disparage personas?
 
 The premise of the argument is problematic: personas are biased. They shouldn't be. If they are, it means they have been done wrong. Personas should be based on research. What does that mean? Well, research is a process too, and researcher are trained to do research properly, and to do their best to eliminate or reduce bias. Matthew Crist has certainly seen a lot of biased personas, and indeed they might be common, and doing a lot of damage. The solution is not to get rid of them, it's to make unbiased personas, based on factual research. 
 

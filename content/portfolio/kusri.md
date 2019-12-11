@@ -6,7 +6,7 @@ icon = "bar-chart"
 +++
 
 
-[Kusri.com] (https://kusri.com) is the 1st project where I owned the UX design process end-to-end, from research, design to tests and graphic supervision. 
+[Kusri.com](https://kusri.com) is the 1st project where I owned the UX design process end-to-end, from research, design to tests and graphic supervision. 
 
 {{< figure src="/images/kusri-home.png" >}}
 

@@ -7,12 +7,12 @@ title = "MMO + AI =?"
 
 How Artificial Intelligence could benefit the MMO industry? I believe machine learning can help build more stable social dynamics that are so essential to MMOs.
 
-Guilds and groups are a defining feature of MMOs. They help new players learning the ropes and stay engaged, they facilitate sharing of resources and the creation of stable groups, necessary to beat the hardest dungeons. They constitute an essential part of the player experience. For a new player, finding good team mates can make the difference between sticking to the game and quiting. One of the conclusion of a [quantitative study on World of Warcraft] (http://www.nickyee.com/pubs/Ducheneaut,%20Yee,%20Nickell,%20Moore%20-%20Alone%20Together%20(2006).pdf) is:
+Guilds and groups are a defining feature of MMOs. They help new players learning the ropes and stay engaged, they facilitate sharing of resources and the creation of stable groups, necessary to beat the hardest dungeons. They constitute an essential part of the player experience. For a new player, finding good team mates can make the difference between sticking to the game and quiting. One of the conclusion of a [quantitative study on World of Warcraft](http://www.nickyee.com/pubs/Ducheneaut,%20Yee,%20Nickell,%20Moore%20-%20Alone%20Together%20(2006).pdf) is:
 
 > Overall our data gives the impression that growing a guild to a significant size and sustaining it over time is a difficult task, perhaps more so
 than managing groups in other contexts. From a game producer’s standpoint this is clearly problematic since, as we have seen earlier, guild membership encourages players to play more and to group more.
 
-Using the [qualitative research I've done on MMOs] (/portfolio/mmo-persona), I identified two pain points related to this problem. Both could significantly benefit from machine learning algorithms. 
+Using the [qualitative research I've done on MMOs](/portfolio/mmo-persona), I identified two pain points related to this problem. Both could significantly benefit from machine learning algorithms. 
 
 ## 1st pain point: finding a guild you like
 

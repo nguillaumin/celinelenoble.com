@@ -5,7 +5,7 @@ title = "InquisitHealth - Connecting peers to improve treatment outcomes"
 icon = "medkit"
 +++
 
-[InquisitHealth] (https://www.inquisithealth.com/) helps patients with a range of chronic conditions improve their health and quality of life thanks to mentoring by peers.
+[InquisitHealth](https://www.inquisithealth.com/) helps patients with a range of chronic conditions improve their health and quality of life thanks to mentoring by peers.
 
 ## Target users
 

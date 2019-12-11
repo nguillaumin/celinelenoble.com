@@ -70,11 +70,12 @@ As a designer, this means that you need to know the audience you’re designing 
 
 
 For more on the Bayesian brain, see
-<a href="http://www.college-de-france.fr/site/stanislas-dehaene/course-2011-2012.htm" target="_blank">a series of lecture by Stanilas Dehaene, College de France, 2012 (in French)</a>
+[a series of lecture by Stanilas Dehaene, College de France, 2012 (in French)](http://www.college-de-france.fr/site/stanislas-dehaene/course-2011-2012.htm)
 
-Amy Perfors, Joshua B. Tenenbaum, Thomas L. Griffiths, Fei Xu, <a href="http://ml.cs.washington.edu/www/media/papers/tmpf2n50d.pdf" target="_blank">A tutorial introduction to Bayesian models of cognitive development</a>, Cognition, Volume 120, Issue 3, September 2011, Pages 302-321.
 
-Marc O.Ernst, Heinrich H.Bülthoff, <a href="https://www.sciencedirect.com/science/article/pii/S1364661304000385" target="blank">Merging the senses into a robust percept</a>, Trends in Cognitive Science, Volume 8, Issue 4, April 2004, Pages 162-169.
+Amy Perfors, Joshua B. Tenenbaum, Thomas L. Griffiths, Fei Xu,[A tutorial introduction to Bayesian models of cognitive development](http://ml.cs.washington.edu/www/media/papers/tmpf2n50d.pdf), Cognition, Volume 120, Issue 3, September 2011, Pages 302-321.
+
+Marc O.Ernst, Heinrich H.Bülthoff, [Merging the senses into a robust percept](https://www.sciencedirect.com/science/article/pii/S1364661304000385), Trends in Cognitive Science, Volume 8, Issue 4, April 2004, Pages 162-169.
 
 
 

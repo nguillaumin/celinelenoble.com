@@ -10,7 +10,7 @@ Empathy alone is not enough, detailed statistics aren't either. Only a combinati
 
 ## What I do
 
-I am a UX researcher at [Sharp Theory] (https://www.sharptheory.com/).
+I am a UX researcher at [Sharp Theory](https://www.sharptheory.com/).
 
 Since 2017, I conduct UX research and design features and interactions of <a href="http://www.kusri.com" target="_blank">Kusri</a>, a social research platform making high quality data collection and management easily accessible to everyone.
 
@@ -20,9 +20,9 @@ Through <a href="https://www.upwork.com/o/profiles/users/_~010dcaadf0e99f54c3/" 
 
 ## How did I get there
 
-In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [Product Manager] (/portfolio/csi), and a good way of describing my work as a teacher would be [Learning Experience Designer] (/blog/learning-experience-designer). 
+In January 2015, I decided to re-orient my career path towards **User Experience**. I had already participated in projects focusing on users' needs as a [Product Manager](/portfolio/csi), and a good way of describing my work as a teacher would be [Learning Experience Designer](/blog/learning-experience-designer). 
 
-So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOs and social representations] (/portfolio/mmo-persona). I graduated in June 2016. I learned and practiced UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera for some 40 weeks. I also delved into the **UX community** news and feeds ([UX stack exchange(https://ux.stackexchange.com/users/105777/celinelenoble)] in particular), where I learned a lot. I took on projects on a volunteer basis ([Doris Women Refuge] (/portfolio/doris-women-refuge/), [ballard.dog] (/portfolio/ballard-dog)). 
+So I decided to study **Anthropology** at University of Strasbourg in France. My research project was about [MMOs and social representations](/portfolio/mmo-persona). I graduated in June 2016. I learned and practiced UX techniques through the <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">Interaction Design Specialization</a> on Coursera for some 40 weeks. I also delved into the **UX community** news and feeds ([UX stack exchange(https://ux.stackexchange.com/users/105777/celinelenoble)] in particular), where I learned a lot. I took on projects on a volunteer basis ([Doris Women Refuge](/portfolio/doris-women-refuge/), [ballard.dog](/portfolio/ballard-dog)). 
 
 
 ***
@@ -37,7 +37,7 @@ So I decided to study **Anthropology** at University of Strasbourg in France. My
 
 at Cité des Sciences et de l'Industrie, Science Museum in Paris, in between my teaching positions.
 
-More details on my [LinkedIn profile] (https://www.linkedin.com/in/celinelenoble).
+More details on my [LinkedIn profile](https://www.linkedin.com/in/celinelenoble).
 
 ***
 

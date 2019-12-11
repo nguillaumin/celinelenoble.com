@@ -7,7 +7,7 @@ icon = "users"
 
 
 
-I have collaborated with Karrie Sullivan from [WORKWORKS] (http://workworks.io/) for a year now. WORKWORKS is a design service that helps organizations to create, test and adopt innovative HR practices, by using a design thinking approach. Well known in product or tech development, design thinking is new in service design, organization design and even more HR. My role in Workworks was to support their user research efforts.
+I have collaborated with Karrie Sullivan from [WORKWORKS](http://workworks.io/) for a year now. WORKWORKS is a design service that helps organizations to create, test and adopt innovative HR practices, by using a design thinking approach. Well known in product or tech development, design thinking is new in service design, organization design and even more HR. My role in Workworks was to support their user research efforts.
 
 ## Context
 
