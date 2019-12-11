@@ -10,6 +10,11 @@ disqusShortname = "celinelenobledotcom"
 
 SectionPagesMenu = "main"
 
+[markup]
+	[markup.goldmark]
+	[markup.goldmark.renderer]
+		unsafe = true
+
 [params]
 	name = "Celine Lenoble"
 	description = "Celine Lenoble Portfolio"
