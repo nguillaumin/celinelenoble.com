@@ -5,6 +5,14 @@ title = "What challenges does AI create for UX design?"
 
 +++
 
+<div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+5' read   | UX researchers and designers need to design a new mental model for ML, invent new use cases and imagine new data to better serve users' interests.
+
+</div> 
+
 Following the recent development of machine learning capabilities, both high-profiles individuals ([Elon Musk](http://www.cnbc.com/2017/02/13/elon-musk-humans-merge-machines-cyborg-artificial-intelligence-robots.html), [Stephen Hawking](https://www.theguardian.com/science/2016/oct/19/stephen-hawking-ai-best-or-worst-thing-for-humanity-cambridge)) and research center ([Pew Research Center](http://www.pewinternet.org/2017/05/03/the-future-of-jobs-and-jobs-training/)) have warned about the threat AI (Artificial Intelligence) represents for more and more job categories. I’ve read a number of articles on this likely disruption, mostly trying to explain how humans can stay relevant in a future AI-dominated world. Some of these were related to how UX will still be essential. In particular, [this article](https://www.fastcodesign.com/90124399/why-ux-design-for-machine-learning-matters)</a> from Caroline Sinders advocates the need for UX designers to help users understand AI. I also believe designers should take on a much larger role in shaping the AI revolution. 
 
 ## Design operational mental models for machine learning

@@ -2,8 +2,20 @@
 date = "2019-01-23T21:33:55-07:00"
 description = "Re-designing a research platform for evalution professionals"
 title = "Kusri.com - Evaluation platform"
-icon = "bar-chart"
+icon = "chart-bar"
 +++
+
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | SaaS platform for evaluation professionals
+Type    | UX research (50%), UX design (50%)
+Skills  | UX audit, interviews, usability testing, wireframes, interactive prototype 
+Tools   | Wireframe Pro, InVision, Visual Studio Online
+Duration| 18 months
+
+</div>
 
 
 [Kusri.com](https://kusri.com) is the 1st project where I owned the UX design process end-to-end, from research, design to tests and graphic supervision. 

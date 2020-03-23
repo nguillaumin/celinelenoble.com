@@ -5,6 +5,20 @@ title = "Swiftly sift your notifications"
 icon = "bell"
 +++
 
+
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Mobile (personal project)
+Type    | UX research (50%), UX design (50%)
+Skills  | Interviews, storyboard, prototyping, usability testing
+Tools   | Paper, Axure, InVision
+Duration| 2 months
+
+</div>
+
+
 Managing information takes more and more time, thanks to our multiple devices. There are obvious benefits, but also many downsides to this connected life. What could be done to keep us in touch with what we need, and minimize the noise?
 
 
@@ -49,7 +63,7 @@ Here is a quick demo of the prototype:
 
 {{< youtube mdjbi9MEMTo >}}
 
-This is still a work in progress: I would love to have your feedback and comments (<a href="https://invis.io/56977XV8S" target="_blank">feel free to test the current prototype</a>). 
+ I would love to have your feedback and comments (<a href="https://invis.io/56977XV8S" target="_blank">feel free to test the current prototype</a>). 
 
 
 This work is a capstone project, part of <a href="https://www.coursera.org/specializations/interaction-design" target="_blank">the Interaction Design Specialization</a>, a 40-week course led by Scott Klemmer from University of California-San Diego on the Coursera platform.

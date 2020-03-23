@@ -4,6 +4,13 @@ description = "How UX can help you develop better applications powered by machin
 title = "5 UX tips for ML projects"
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fas fa-meteor"></i>
+ ---------|---
+ 2' read   | Practical UX advice for consumer-facing ML projects based on People + AI guidebook from Google User Research team
+ </div>
+
 This is based on a talk I gave for [ML Fribourg meetup](https://www.meetup.com/Fri-ML/) on UX for machine learning projects. I draw the content mainly from [People + AI Guidebook](https://pair.withgoogle.com/), a great resource to reflect on the specificity of user experience for AI products.
 
 As my audience was made of data scientists rather than UX specialists, I framed the tips as issues they might encounter while developping their projects. My goal was to show how a UX approach could help them find solutions. 

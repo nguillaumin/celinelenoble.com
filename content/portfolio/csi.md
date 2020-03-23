@@ -5,6 +5,18 @@ title = "Science Museum Website"
 icon = "flask"
 +++
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  |Science museum
+Type    | UX research (15%), UX design (15%), Product management (70%)
+Skills  | Needfinding research, requirement gathering, specifications, information architecture, stakeholders communication, contractor supervision, training and coordination of contributors
+Tools   | CMS (Fatwire Content Server), Wordpress, HTML, CSS
+Duration| 5 years 
+
+</div>
+
 ### Earlier projects at Cité des sciences et de l'industrie
 
 Working as a product manager at <a href="http://www.cite-sciences.fr/en/home/" target="blank">Cité des sciences et de l'industrie</a>, a Science Museum in Paris, my first objective was to improve the experience of visitors, especially of teachers visiting with their class. 

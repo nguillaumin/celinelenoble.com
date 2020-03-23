@@ -7,6 +7,18 @@ icon = "life-ring"
 
 ![Doris Women Refuge Logo](/images/dwr-logo.png "Doris Women Refuge Logo")
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Charity
+Type    | UX research (25%), UX design (75%)
+Skills  | Interviews, wireframes, web design
+Tools   | Wordpress, HTML, CSS
+Duration| 6 months
+
+</div>
+
 Doris Women Refuge is a charitable association in Canberra that provides emergency and medium term accommodation for women and their children who are victims of family and domestic violence. They had no website, their time being entirely dedicated to helping women and children. 
 
 ## Their objectives

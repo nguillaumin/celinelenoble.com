@@ -5,9 +5,20 @@ title = "User research to support design thinking in HR"
 icon = "users"
 +++
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Human Resources, Design Thinking
+Type    | UX research (75%), UX design (25%)
+Skills  | Interviews, survey, qualitative and quantitative analysis, card sort, journey map, workshop design and support
+Tools   | Dovetailapp, SurveyMonkey, SimpleDiagram, Powerpoint
+Duration| 1 year
+
+</div>
 
 
-I have collaborated with Karrie Sullivan from [WORKWORKS](http://workworks.io/) for a year now. WORKWORKS is a design service that helps organizations to create, test and adopt innovative HR practices, by using a design thinking approach. Well known in product or tech development, design thinking is new in service design, organization design and even more HR. My role in Workworks was to support their user research efforts.
+I collaborated with Karrie Sullivan from [WORKWORKS](http://workworks.io/) for one year when I was in Seattle. WORKWORKS is a design service that helps organizations to create, test and adopt innovative HR practices, by using a design thinking approach. Well known in product or tech development, design thinking is new in service design, organization design and even more HR. My role in Workworks was to support their user research efforts.
 
 ## Context
 

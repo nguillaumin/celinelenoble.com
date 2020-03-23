@@ -5,6 +5,19 @@ title = "Building MMO Players Personas"
 icon = "desktop"
 +++
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Gaming (personal project)
+Type    | UX research (100%)
+Skills  | Interviews, personas
+Tools   | MS Office
+Duration| 9 months
+
+</div>
+
+
 As a research project for my Anthropology degree, I studied a Massive Multiplayer Online Game *The Lord of the Rings Online*. I used participant observation and interviews to conduct this ethnographic research. I wrote my thesis on MMO and social representations, using my research as well as academic and industry studies.
 
 ## In brief

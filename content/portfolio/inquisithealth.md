@@ -5,6 +5,18 @@ title = "InquisitHealth - Connecting peers to improve treatment outcomes"
 icon = "medkit"
 +++
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Health
+Type    | UX research (100%)
+Skills  | interviews, usability testing, qualitative analysis, visualization, presentation 
+Tools   | Zoom, Dovetailapp, Powerpoint
+Duration| 3 rounds of 2-3 weeks each
+
+</div>
+
 [InquisitHealth](https://www.inquisithealth.com/) helps patients with a range of chronic conditions improve their health and quality of life thanks to mentoring by peers.
 
 ## Target users

@@ -5,6 +5,13 @@ title = "Look out for the black sheep"
 
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 2'read   | Privileged informant is a well-known pitfall in ethnography, it can happen in user research too. 
+ </div>
+
 When researching user experience for a product or a service, we tend to look for a diversity of perspectives, from the “typical” users, to the most “extreme” ones, whatever the extremes are in a specific area. In the IT context for example, you would have a software engineer ultra-geek at one extreme, and the mythical computer illiterate (grand-)mother at the other end. It could also be in terms of physical abilities, from someone relying entirely on sound to someone relying only on visual cues.
 
 {{< figure src="/images/black_sheep.jpg" title="Spotting the black sheep">}}

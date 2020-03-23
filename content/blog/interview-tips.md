@@ -4,6 +4,13 @@ description = "Short user interviews are a very good way to start exploring a ne
 title = "Six Tips for Short User Interviews"
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 5' read   | Successfull guerilla interviews: where, what, how, how long and things to avoid
+ </div>
+
 Short user interviews are unscheduled interviews, done directly in the field. They are very useful to start researching a domain. You can quickly get a good idea of the user experience with a product or a service, and uncover high levels needs and problems. 
 
 ## 1. Where to go

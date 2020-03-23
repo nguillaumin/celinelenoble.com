@@ -5,6 +5,14 @@ title = "MMO + AI =?"
 
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 5' read  | Ideas to introduce ML in MMO to improve gamers' experience and therefore increase engagement and retention.
+ 
+ </div>
+
 How Artificial Intelligence could benefit the MMO industry? I believe machine learning can help build more stable social dynamics that are so essential to MMOs.
 
 Guilds and groups are a defining feature of MMOs. They help new players learning the ropes and stay engaged, they facilitate sharing of resources and the creation of stable groups, necessary to beat the hardest dungeons. They constitute an essential part of the player experience. For a new player, finding good team mates can make the difference between sticking to the game and quiting. One of the conclusion of a [quantitative study on World of Warcraft](http://www.nickyee.com/pubs/Ducheneaut,%20Yee,%20Nickell,%20Moore%20-%20Alone%20Together%20(2006).pdf) is:

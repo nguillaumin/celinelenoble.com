@@ -5,6 +5,14 @@ title = "Of the many meanings of the word design"
 
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 5'read   | The word "design" covers a much larger range of meaning in English compared to French. 
+
+ </div>
+
 I’ve always been surprised by the many meanings the words *design* or *designer* have in English. In French, the word *design* exists, but its meaning is really specific. The definition of the Larousse dictionnary is:
 
 >Nom masculin. Discipline visant à une harmonisation de l'environnement humain, depuis la conception des objets usuels jusqu'à l'urbanisme. 

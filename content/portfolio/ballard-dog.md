@@ -5,6 +5,18 @@ title = "Ballard.dog re-Design"
 icon = "paw"
 +++
 
+<div class="at-a-glance">
+
+At a Glance | <i class="fa fa-th-list"></i>
+--------|---
+Domain  | Small business
+Type    | UX research (50%), UX design (50%)
+Skills  | Guerilla interviews, competitive analysis, UX audit, UX design, web design
+Tools   | Wordpress, HTML, CSS
+Duration| 2 months
+
+</div> 
+
 Ballard.dog is a new business offering pet care services in Ballard, Seattle. The initial website used a common template for pet care services on website builder. It didn't meet neither users' needs nor business owners' wishes. 
 
 {{< figure src="/images/ballard-website.png" title="Before: First two versions of Ballard.dog using Website Builder template" >}}

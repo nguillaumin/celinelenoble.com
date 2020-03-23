@@ -5,6 +5,14 @@ title = "Self Data Collection Method in User Research"
 
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 3' read  | Ethnography using mobile devices: advantages and pitfalls 
+ 
+ </div>
+
 Observation, participative or not, is certainly one of the main methods in the toolbox of the user researcher / ethnographer. Observation is irreplaceable, because you get to know how your service or product is really used in the “wild”, not in a laboratory. And the differences are huge: users have to deal  with real-life circumstances which often take priority: it might just be traffic, a phone call, or a child tantrum. In any case, the app or device suddenly becomes second or third in their attention. Studies have shown how high is the productivity cost when workers switch between tasks. They need up to 15 minutes to get back “in the flow”. The same is true when users have to divide their attention between your service and what’s going on around them. 
 
 Knowing more about the typical circumstances, the when, where and with whom your users actually use your product can help a lot in designing the right interface and interactions. It starts with some obvious features, like auto-completion or pre-filled forms as much as possible. It could also be a "finish later" button, so someone who is interrupted knows they can leave without losing everything they’ve done so far. Or an emergency exit, essential when you offer information to people who might be in danger if discovered, as was the case for [Doris Women Refuge Website](http://celinelenoble.com/portfolio/doris-women-refuge/). Voice commands are more and more frequent, but they can become cumbersome when used in a noisy environment, or, on the contrary, in a place where you’d prefer to keep things private. 

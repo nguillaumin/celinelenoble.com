@@ -4,6 +4,13 @@ title = "How neuroscience confirms UX heuristics"
 description = "The Bayesian interpretation of the brain sheds a new light on well-known design principles."
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 10' read | The Bayesian model of brain decision mechanism supports UX heuristics and can help us become better UX designers.
+
+ </div>
 
 Interaction and UX designers have long known and used heuristics to guide the creation of user-friendly interface. We know empirically that these principles work, and they make “common sense”. These heuristics themselves aim to make interface “intuitive”, but common sense and intuitive are concepts hard to define precisely.
 

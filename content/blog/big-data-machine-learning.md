@@ -4,6 +4,13 @@ description = "Machine learning is a powerful, but be careful how you use it."
 title = "Machine Learning: Opportunities Are Not What You Think They Are"
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 5' read  | How ML could be used as a tool to learn more about our society <br> How data could introduce bias in ML and perpetuate existing discriminations indefinitely
+ 
+ </div>
 
 > Disclaimer:
 > I'm not an artificial intelligence or machine learning specialist, but I've taken an interest for this topic for quite a long time. With this caveat, I still believe that ordinary citizens should take part in a debate that is crucial for society, considering the quick pace of adoption of machine learning techniques and the potential consequences.

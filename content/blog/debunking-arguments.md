@@ -5,6 +5,14 @@ title = "Don't Be Afraid of User Research"
 
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 3'read   | UX researchers are not there just to repeat what users tell them, their job is to uncover deeper, latent needs behind the typical user complaints.
+
+ </div>
+
 It might seem surprising, but there are still tech people who fear doing tests or see them as a waste of time and money. A lot of tech people have been exposed to raw feedback from customers, which can indeed be irrelevant, all over the place, and ultimately not very useful for them. This is why we need to make a strong distinction between user research and testing on one hand, and simple customer feedback on the other hand. 
 
 Here are the arguments against user research I came across most often:

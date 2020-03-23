@@ -4,6 +4,13 @@ description = "Reaction to two recent pieces of news."
 title = "Why You Need Dedicated User Researchers"
 +++
 
+ <div class="overview">
+
+ Overview | <i class="fa fa-bookmark"></i>
+ ---------|---
+ 5' read  | Big data can't entirely replace qualitative research, personas are useful when done right.
+ </div>
+
 I saw two pieces of news recently about User Research that made me react. They both questioned the need and quality of user research. 
 
 The first was from this article [Five Design Jobs That Won't Exist In The Future](https://www.fastcodesign.com/3063318/5-design-jobs-that-wont-exist-in-the-future). 
