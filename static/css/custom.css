@@ -192,3 +192,34 @@ figcaption p {
   src: local('Crimson Text'), local('CrimsonText-Roman'), url(https://fonts.gstatic.com/s/crimsontext/v6/3IFMwfRa07i-auYR-B-zNegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
+
+.at-a-glance table, .overview table {
+    border: solid 2px #bc1422;
+    font-size: 20px;
+    font-family: Quicksand;
+    color: black;
+}
+
+.at-a-glance th, .overview table th {
+    background-color: #bc1422;
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.at-a-glance th:nth-child(even), .overview table th:nth-child(even) {
+    text-align: right;
+}
+
+.at-a-glance tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+.at-a-glance td:nth-child(odd) {
+    color: #6d6d6d;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
