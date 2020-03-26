@@ -6,7 +6,7 @@ title = "Fairness Awareness in ML models"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  48' watch| Meetup presentation: identify when and where bias can be introduced during ML process and how to minimize it 
 

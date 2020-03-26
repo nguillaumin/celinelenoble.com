@@ -7,7 +7,7 @@ title = "Of the many meanings of the word design"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5'read   | The word "design" covers a much larger range of meaning in English compared to French. 
 

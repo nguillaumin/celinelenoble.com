@@ -6,7 +6,7 @@ title = "Six Tips for Short User Interviews"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5' read   | Successfull guerilla interviews: where, what, how, how long and things to avoid
  </div>

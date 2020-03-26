@@ -6,7 +6,7 @@ title = "Machine Learning: Opportunities Are Not What You Think They Are"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5' read  | How ML could be used as a tool to learn more about our society <br> How data could introduce bias in ML and perpetuate existing discriminations indefinitely
  

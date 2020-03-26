@@ -7,7 +7,7 @@ icon = "chart-bar"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-chart-bar"></i>
 --------|---
 Domain  | SaaS platform for evaluation professionals
 Type    | UX research (50%), UX design (50%)

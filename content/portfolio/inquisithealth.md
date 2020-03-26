@@ -7,7 +7,7 @@ icon = "medkit"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-medkit"></i>
 --------|---
 Domain  | Health
 Type    | UX research (100%)

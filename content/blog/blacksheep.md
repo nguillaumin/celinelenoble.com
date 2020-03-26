@@ -7,7 +7,7 @@ title = "Look out for the black sheep"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  2'read   | Privileged informant is a well-known pitfall in ethnography, it can happen in user research too. 
  </div>

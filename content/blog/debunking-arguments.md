@@ -7,7 +7,7 @@ title = "Don't Be Afraid of User Research"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  3'read   | UX researchers are not there just to repeat what users tell them, their job is to uncover deeper, latent needs behind the typical user complaints.
 

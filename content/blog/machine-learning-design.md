@@ -7,7 +7,7 @@ title = "What challenges does AI create for UX design?"
 
 <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
 5' read   | UX researchers and designers need to design a new mental model for ML, invent new use cases and imagine new data to better serve users' interests.
 

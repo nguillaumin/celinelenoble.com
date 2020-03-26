@@ -7,7 +7,7 @@ icon = "table"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-table"></i>
 --------|---
 Domain  | SaaS platform for industrial processes
 Type    | UX research (80%), UX design (20%)

@@ -6,7 +6,7 @@ description = "The Bayesian interpretation of the brain sheds a new light on wel
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  10' read | The Bayesian model of brain decision mechanism supports UX heuristics and can help us become better UX designers.
 

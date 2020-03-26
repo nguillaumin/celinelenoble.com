@@ -6,7 +6,7 @@ title = "Why You Need Dedicated User Researchers"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5' read  | Big data can't entirely replace qualitative research, personas are useful when done right.
  </div>

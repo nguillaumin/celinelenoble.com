@@ -5,6 +5,8 @@ title = "Why pedagogy and UX are sisters' discipline"
 draft = true
 +++
 
+
+
 I always felt a strong familiarity between pedagogy and UX. I already draw parallels between the professions of teacher and designer in this article. I would like to go further and argue that UX and pedagogy share the same fundamental principles.
 
 I define pedagogy as trigerring and cultivating the desire to learn, providing the right framework, tools and resources for students to accomplish their (learning) goals.

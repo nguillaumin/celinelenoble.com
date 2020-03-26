@@ -6,7 +6,7 @@ title = "Learning Experience Designer"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5' read   | UX designer and teachers both need empathy skills, a good understanding of human cognitive skills, psychology and the power of emotions.
 

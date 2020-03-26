@@ -8,7 +8,7 @@ icon = "bell"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-bell"></i>
 --------|---
 Domain  | Mobile (personal project)
 Type    | UX research (50%), UX design (50%)

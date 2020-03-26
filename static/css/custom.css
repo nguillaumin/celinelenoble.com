@@ -211,6 +211,7 @@ figcaption p {
 
 .at-a-glance th:nth-child(even), .overview table th:nth-child(even) {
     text-align: right;
+    font-size: 26px;
 }
 
 .at-a-glance tr:nth-child(even) {

@@ -7,7 +7,7 @@ icon = "flask"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-flask"></i>
 --------|---
 Domain  |Science museum
 Type    | UX research (15%), UX design (15%), Product management (70%)

@@ -9,7 +9,7 @@ icon = "life-ring"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-life-ring"></i>
 --------|---
 Domain  | Charity
 Type    | UX research (25%), UX design (75%)

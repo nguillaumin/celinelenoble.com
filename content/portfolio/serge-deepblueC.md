@@ -7,7 +7,7 @@ icon = "route"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-route"></i>
 --------|---
 Domain  | Simulation - Wargaming - Defense
 Type    | UX research (15%), UX design (85%)

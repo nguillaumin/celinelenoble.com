@@ -6,7 +6,7 @@ title = "5 UX tips for ML projects"
 
  <div class="overview">
 
- Overview | <i class="fas fa-meteor"></i>
+ Overview | <i class="fas fa-highlighter"></i>
  ---------|---
  2' read   | Practical UX advice for consumer-facing ML projects based on People + AI guidebook from Google User Research team
  </div>

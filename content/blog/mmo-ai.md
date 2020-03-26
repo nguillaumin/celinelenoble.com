@@ -7,7 +7,7 @@ title = "MMO + AI =?"
 
  <div class="overview">
 
- Overview | <i class="fa fa-bookmark"></i>
+ Overview | <i class="fa fa-highlighter"></i>
  ---------|---
  5' read  | Ideas to introduce ML in MMO to improve gamers' experience and therefore increase engagement and retention.
  

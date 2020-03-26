@@ -7,7 +7,7 @@ icon = "paw"
 
 <div class="at-a-glance">
 
-At a Glance | <i class="fa fa-th-list"></i>
+At a Glance | <i class="fa fa-paw"></i>
 --------|---
 Domain  | Small business
 Type    | UX research (50%), UX design (50%)
