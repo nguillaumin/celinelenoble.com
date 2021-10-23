@@ -10,9 +10,11 @@ Empathy alone is not enough, detailed statistics aren't either. Only a combinati
 
 ## What I do
 
-I am a UX researcher at [Sharp Theory](https://www.sharptheory.com/).
+I am Director of UX Research at [Nabler](https://www.nabler.com/) where I lead a small team with diverse background. We conduct studies for both internal stakeholders and clients. J first worked with Nabler subsidiary, Sharp Theory, in 2018 as a freelancer. I then joined Nabler as a contractor in February 2021 and stepped up as director in May 2021. 
 
-Since 2017, I conduct UX research and design features and interactions of <a href="http://www.kusri.com" target="_blank">Kusri</a>, a social research platform making high quality data collection and management easily accessible to everyone.
+Before that, I worked as a freelancer and contractor in a variety of industries, for consulting agencies or directly for businesses. Below are a few highlights of my work:
+
+I conducted UX research and designed features and interactions of <a href="http://www.kusri.com" target="_blank">Kusri</a>, a social research platform making high quality data collection and management easily accessible to everyone.
 
 In 2016-2017, I was a User Research Program Manager at <a href="http://www.workworks.io" target="_blank">WorkWorks.io</a>, an exciting startup founded by Karrie Sullivan to bring design thinking into HR to reshape organizations so that work finally works!
 
