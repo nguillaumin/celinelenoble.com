@@ -14,6 +14,8 @@ jobs:
         with:
           version: v0.60.0
           extended: true
+      - name: Check Artifacts
+        run: head public/portfolio/index.html
       - name: Save Artifacts
         uses: actions/upload-artifact@v2
         with:
@@ -24,16 +26,18 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
     steps:
-    - name: Download Artifacts
-      uses: actions/download-artifact@v2
-      with:
-        name: site
-    - name: Upload FTP
-      uses: sebastianpopp/ftp-action@releases/v2
-      with:
-        host: ${{ secrets.FTP_SERVER }}
-        user: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        remoteDir: "contact.celinelenoble.com/files/website/"
-        options: "-p --transfer-all --ignore-time --delete -v"
+      - name: Download Artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: site
+      - name: Check Artifacts
+        run: head portfolio/index.html
+      - name: Upload FTP
+        uses: sebastianpopp/ftp-action@releases/v2
+        with:
+          host: ${{ secrets.FTP_SERVER }}
+          user: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          remoteDir: "contact.celinelenoble.com/files/website/"
+          options: "-p --transfer-all --ignore-time --delete -v"
 
